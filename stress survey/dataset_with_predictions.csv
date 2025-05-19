@@ -1,0 +1,572 @@
+The name of your institution,The name of your program of study,Your current class level is,Your gender,Your current age,Living with family?,Are you happy with your academic  Condition?,Your CGPA,Are you addicted to any drugs?,Are you in a relationship?,Did you have a recent breakup?,How often do you conflict with your friend?,Do you have financial problem in your family?,Violence in family?,Have you ever been bullied,Have you ever been sexually harassed or abused?,How many hours do you spend on social media?,I found it hard to wind down,I tended to over-react to situations,I felt that I was using a lot of nervous energy,I found myself getting agitated,5.  I found it difficult to relax,I was intolerant of anything that kept me from getting on with what I was doing ?,7.  I felt that I was rather touchy,"Extraverted, enthusiastic.","Critical, quarrelsome.","Dependable, self-disciplined.","Anxious, easily upset.","Open to new experiences, complex.","Reserved, quiet.","Sympathetic, warm.","Disorganized, careless.","Calm, emotionally stable","Conventional, uncreative.",Stress Level,Predicted Stress Level
+EDU,CSE,Freshman (Undergrad),Female,> 25,Yes,Yes,3.01-3.50,No,Yes,Yes,Sometimes,Yes,Most of the time,No,Maybe,< 1 Hours,0,1,2,3,1,2,3,1,5,4,7,7,7,7,5,1,1,0.9285714285714286,92.64665
+EDU,CSE,Senior (Undergrad),Male,21-25,Yes,Yes,3.01-3.50,No,Yes,No,Sometimes,Yes,Never,No,Yes,> 3 Hours,1,3,2,1,3,3,2,6,5,2,7,5,4,7,5,1,5,0.9285714285714286,61.69582
+East Delta University,Computer Science and Engineering,Senior (Undergrad),Male,> 25,Yes,Yes,> 3.50,No,No,No,Never occurs,No,Never,No,No,> 3 Hours,0,0,0,0,0,0,0,2,5,7,2,5,6,5,5,3,2,0.42857142857142855,67.277504
+East Delta University ,CSE ,Senior (Undergrad),Female,21-25,Yes,Yes,> 3.50,No,No,No,Never occurs,Yes,Never,No,No,> 3 Hours,1,1,0,1,2,1,1,1,1,3,4,6,4,6,5,6,1,0.35714285714285715,35.349064
+East Delta University,BSC in CSE,Senior (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,No,No,Sometimes,No,Never,No,Maybe,> 3 Hours,2,2,2,3,0,0,0,2,5,6,6,5,5,5,5,3,3,0.7142857142857143,71.16128
+East Delta University ,CSE,Junior (Undergrad),Female,21-25,Yes,Yes,> 3.50,No,Yes,No,Sometimes,Yes,Never,Yes,No,1-3 Hours,3,2,2,1,2,0,1,2,1,6,1,7,7,7,5,6,7,0.14285714285714285,13.799299
+East Delta University,CSE,Senior (Undergrad),Male,21-25,Yes,Yes,3.01-3.50,No,Yes,No,Never occurs,Yes,Never,No,No,> 3 Hours,3,2,1,2,0,2,3,2,5,6,5,3,2,6,5,5,5,0.5,42.553364
+University of Chittagong ,MBA,Graduate student,Male,21-25,Yes,No,3.01-3.50,Yes,Yes,No,Never occurs,No,Never,Yes,Maybe,> 3 Hours,1,0,2,0,0,1,0,7,6,4,5,3,2,6,5,5,2,0.5,49.89763
+East Delta University ,BSc,Senior (Undergrad),Male,21-25,Yes,Yes,3.01-3.50,No,Yes,No,Never occurs,No,Rarely,Yes,No,< 1 Hours,0,1,1,2,1,1,1,1,4,5,7,5,2,1,5,1,4,0.9285714285714286,92.61978
+East Delta University ,CSE,Senior (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,No,No,Never occurs,No,Never,No,No,< 1 Hours,0,1,0,1,0,0,1,1,7,5,7,5,7,4,5,1,7,0.9285714285714286,109.15581
+East Delta University ,Computer Science and Engineering,Senior (Undergrad),Male,21-25,Yes,Yes,3.01-3.50,No,No,No,Never occurs,No,Never,No,No,> 3 Hours,0,0,0,0,0,0,0,5,3,6,6,3,7,5,5,5,7,0.5714285714285714,62.963875
+International Islamic University Chittagong ,Masters in English Language Teaching,Graduate student,Male,> 25,Yes,No,< 3.00,No,No,Yes,Never occurs,Yes,Never,Yes,No,> 3 Hours,1,0,2,0,0,0,0,6,5,6,6,6,4,7,5,3,3,0.7142857142857143,18.977356
+CVASU ,Food Science and Technology ,Senior (Undergrad),Male,21-25,No,No,< 3.00,No,No,No,Sometimes,No,Rarely,Yes,No,> 3 Hours,1,0,1,1,1,2,1,5,1,4,6,5,2,7,5,2,1,0.7857142857142857,78.42112
+International Islamic University Chittagong ,English Language and Literature ,Graduate student,Male,21-25,Yes,Yes,3.01-3.50,No,No,No,Sometimes,Yes,Rarely,No,No,> 3 Hours,2,0,1,2,1,2,1,5,2,5,5,2,5,3,5,6,2,0.42857142857142855,-49.717743
+East Delta University ,BSc. in Computer Science  & Engineering ,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Never,Yes,No,> 3 Hours,1,3,3,3,3,3,0,3,5,6,1,6,6,4,5,7,2,0.07142857142857142,6.350378
+Government Commerce College ,BBS,Freshman (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,Yes,Sometimes,Yes,Never,No,No,> 3 Hours,1,3,1,1,3,3,1,3,5,4,5,6,5,5,5,4,4,0.5714285714285714,56.85932
+East Delta University ,CSE,Freshman (Undergrad),Male,21-25,Yes,Yes,< 3.00,No,No,Yes,Sometimes,Yes,Never,No,Maybe,> 3 Hours,0,2,0,1,1,1,2,1,4,5,7,6,5,4,5,1,3,0.9285714285714286,91.99591
+East Delta University ,EEE,Graduate student,Male,21-25,Yes,Yes,< 3.00,No,No,No,Sometimes,Yes,Never,No,No,> 3 Hours,0,2,1,1,1,1,1,1,7,4,0,1,6,4,5,3,1,0.2857142857142857,28.200834
+International Islamic University Chittagong ,B.A in ELL,Graduate student,Male,21-25,Yes,No,3.01-3.50,No,No,No,Never occurs,No,Often,Yes,Yes,> 3 Hours,2,1,3,2,2,1,1,2,7,7,1,7,5,4,5,6,2,0.14285714285714285,14.236128
+East Delta University ,English ,Senior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Never,No,No,> 3 Hours,0,1,1,1,1,1,1,2,2,5,4,6,5,7,5,3,6,0.5714285714285714,57.020325
+East Delta University ,EEE,Senior (Undergrad),Male,21-25,No,No,< 3.00,No,Yes,No,Never occurs,No,Never,No,No,1-3 Hours,0,0,1,2,1,1,2,7,1,3,6,6,7,2,5,1,1,0.8571428571428571,84.333626
+East Delta University ,CSE,Senior (Undergrad),Female,> 25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Rarely,Yes,Maybe,> 3 Hours,3,1,0,3,3,3,1,1,6,5,7,6,1,5,5,2,7,0.8571428571428571,88.68274
+University of Chittagong ,Law,Graduate student,Male,21-25,No,No,3.01-3.50,No,Yes,No,Sometimes,Yes,Rarely,Yes,No,1-3 Hours,2,1,1,2,0,0,1,3,3,5,5,2,6,5,5,1,1,0.7857142857142857,78.39262
+East Delta University ,CSE,Senior (Undergrad),Female,> 25,Yes,No,3.01-3.50,No,Yes,No,Never occurs,No,Never,Yes,Yes,> 3 Hours,1,1,2,2,1,1,3,1,5,5,6,5,5,5,5,3,5,0.7142857142857143,70.94062
+BGC Trust University Bangladesh,Computer Science and Engineering ,Sophomore (Undergrad),Male,> 25,Yes,No,> 3.50,No,No,No,Sometimes,Yes,Most of the time,No,Yes,1-3 Hours,1,1,2,1,2,1,1,2,4,3,5,3,6,1,5,3,4,0.6428571428571429,64.21202
+Chittagong Independent University   ,ELT,Graduate student,Male,21-25,No,No,> 3.50,No,No,No,Sometimes,No,Never,No,No,> 3 Hours,1,1,1,3,1,3,1,2,6,5,7,5,6,6,5,1,2,0.9285714285714286,92.68975
+East Delta University ,Bsc in CSE,Senior (Undergrad),Female,21-25,Yes,Yes,> 3.50,No,Yes,No,Sometimes,No,Never,Yes,No,1-3 Hours,3,1,3,3,3,3,2,1,1,7,7,7,7,5,5,1,1,0.9285714285714286,92.70233
+University of Chittagong ,Education and Research ,Freshman (Undergrad),Male,21-25,No,No,> 3.50,No,No,No,Never occurs,No,Rarely,Yes,No,> 3 Hours,1,0,1,2,2,3,1,4,3,1,7,7,2,1,5,3,1,0.7857142857142857,78.35087
+East Delta University ,CSE,Senior (Undergrad),Male,21-25,No,Yes,3.01-3.50,No,No,No,Sometimes,No,Rarely,No,No,> 3 Hours,0,1,0,1,1,3,1,7,1,6,6,7,1,5,5,4,7,0.6428571428571429,64.460304
+Islamic University Kushtia ,LLB,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,Yes,No,Sometimes,No,Rarely,Yes,Yes,> 3 Hours,1,1,0,1,3,3,0,0,0,1,1,0,2,2,5,2,0,0.42857142857142855,-133.96983
+East Delta University ,CSE,Sophomore (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,No,No,Most of the time,No,Never,Yes,No,> 3 Hours,1,3,3,3,3,1,3,5,0,6,0,7,7,7,5,7,3,0.0,37.852207
+CUET,Electrical and Electronic Engineering ,Senior (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,No,No,Never occurs,No,Rarely,No,No,1-3 Hours,2,1,0,2,2,2,2,4,1,5,7,7,7,3,5,3,3,0.7857142857142857,78.21357
+Islamic university ,English ,Sophomore (Undergrad),Female,21-25,No,No,> 3.50,No,Yes,No,Never occurs,Yes,Rarely,No,Yes,1-3 Hours,1,1,1,2,2,3,1,3,1,4,1,6,6,4,5,6,2,0.14285714285714285,14.120929
+Chittagong University of Engineering and Technology ,Petroleum and Mining Engineering ,Sophomore (Undergrad),Male,> 25,No,No,3.01-3.50,Yes,Yes,No,Sometimes,No,Rarely,No,No,1-3 Hours,2,1,2,1,1,1,0,2,2,5,5,5,5,2,5,5,5,0.5,49.92755
+University of Dhaka,BSC- Physics ,Senior (Undergrad),Male,21-25,Yes,No,> 3.50,No,No,No,Never occurs,Yes,Rarely,No,Maybe,> 3 Hours,2,2,2,2,1,1,0,2,1,6,6,5,7,7,5,5,2,0.5714285714285714,-6.695121
+East Delta university ,MBA,Graduate student,Male,> 25,Yes,No,> 3.50,No,No,Yes,Sometimes,Yes,Never,No,No,> 3 Hours,2,3,3,3,3,3,3,1,3,4,5,6,7,5,5,3,5,0.6428571428571429,64.15067
+Mymensingh Medical College ,MBBS,Junior (Undergrad),Female,21-25,Yes,Yes,> 3.50,No,No,No,Sometimes,No,Never,Yes,No,> 3 Hours,3,3,3,3,3,3,3,6,5,3,7,7,3,6,5,3,5,0.7857142857142857,78.41421
+AIUB ,Bsc in CSE (Graduate) ,Graduate student,Male,21-25,Yes,Yes,< 3.00,No,Yes,Yes,Sometimes,No,Never,Yes,No,> 3 Hours,2,1,2,3,3,2,2,5,5,3,4,6,4,6,5,6,2,0.35714285714285715,34.910202
+Eden Mohila College  ,B A honours ,Sophomore (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Never occurs,No,Rarely,Yes,Yes,> 3 Hours,1,1,2,3,1,3,0,2,5,3,4,2,4,2,5,3,3,0.5714285714285714,56.844933
+Butex,B.Sc in Textile Engineering,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Rarely,Yes,No,> 3 Hours,0,0,1,2,1,1,1,5,4,3,2,7,2,5,5,2,1,0.5,48.972286
+Bangladesh Agricultural University ,B.Sc. Fisheries( Hons.) ,Sophomore (Undergrad),Female,21-25,Yes,No,> 3.50,No,No,No,Sometimes,No,Never,Yes,Yes,> 3 Hours,1,1,3,2,2,2,2,4,5,5,5,7,4,3,5,4,1,0.5714285714285714,-17.750433
+CU,"B.A (Hon's), M.A in History ",Graduate student,Male,21-25,Yes,Yes,3.01-3.50,Yes,No,Yes,Sometimes,Yes,Rarely,No,No,1-3 Hours,0,0,0,1,0,1,0,3,5,3,5,7,5,6,5,4,2,0.5714285714285714,56.896347
+Bangladesh Agricultural University ,Fisheries ,Senior (Undergrad),Female,21-25,Yes,No,> 3.50,No,No,No,Never occurs,Yes,Most of the time,Yes,Yes,1-3 Hours,2,1,2,2,3,2,2,6,2,7,2,7,3,5,5,6,7,0.21428571428571427,21.321995
+East Delta University ,BSc in CSE,Senior (Undergrad),Male,21-25,No,Yes,< 3.00,Yes,Yes,No,Sometimes,No,Never,Yes,Yes,> 3 Hours,0,3,2,3,3,3,3,6,4,6,5,7,3,7,5,5,2,0.5,41.053062
+Bangladesh Agricultural University ,Fisheries ,Junior (Undergrad),Female,21-25,Yes,Yes,< 3.00,No,No,No,Sometimes,Yes,Rarely,No,No,> 3 Hours,1,1,1,1,2,2,0,2,7,2,7,1,1,1,5,1,7,0.9285714285714286,92.62152
+University of Chittagong ,Law,Junior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Most of the time,Yes,No,< 1 Hours,3,3,3,3,3,3,3,2,3,5,4,4,2,6,5,1,7,0.7142857142857143,71.44882
+Chittagong University ,Law,Freshman (Undergrad),Female,> 25,No,No,3.01-3.50,No,No,Yes,Never occurs,Yes,Never,Yes,Yes,1-3 Hours,2,3,3,3,2,2,2,1,6,3,4,7,2,6,5,1,5,0.7142857142857143,71.058876
+University of Dhaka ,BBA,Junior (Undergrad),Female,21-25,Yes,No,> 3.50,No,Yes,No,Never occurs,Yes,Never,No,Maybe,1-3 Hours,1,2,0,1,1,1,2,2,6,5,7,6,5,7,5,7,1,0.5,49.838352
+UNIVERSITY OF CHITTAGONG ,L.L.B,Freshman (Undergrad),Male,21-25,Yes,No,> 3.50,No,Yes,No,Sometimes,Yes,Rarely,Yes,Yes,> 3 Hours,2,3,2,3,2,2,3,2,6,7,2,6,5,3,5,1,7,0.5714285714285714,56.595604
+Chittagong University ,LL.B.,Senior (Undergrad),Female,21-25,Yes,No,> 3.50,No,No,No,Sometimes,No,Never,Yes,No,> 3 Hours,3,1,2,2,2,3,3,2,4,7,5,7,5,3,5,5,5,0.5,49.73156
+International Islamic University Chittagong,ELL,Graduate student,Male,21-25,No,Yes,> 3.50,No,No,No,Sometimes,Yes,Never,No,No,1-3 Hours,2,1,3,3,1,1,3,7,5,7,5,3,1,7,5,4,5,0.5714285714285714,56.776833
+"Abdul Malek Ukil Medical College,Noakhali",MBBS,Junior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,Yes,No,Sometimes,Yes,Never,No,No,> 3 Hours,1,3,3,3,3,1,3,5,5,0,5,3,6,6,5,2,1,0.7142857142857143,71.31372
+Port City International University,B.sc in EEE,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,Yes,Never occurs,Yes,Never,Yes,Maybe,1-3 Hours,2,0,0,2,1,3,3,2,6,7,1,7,5,5,5,1,4,0.5,160.80801
+Abdul malek ukil medical college,Medicine ,Senior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,No,Yes,Never occurs,No,Rarely,No,Yes,> 3 Hours,1,3,3,3,1,3,3,5,6,7,6,6,1,7,5,1,3,0.8571428571428571,85.36727
+à¦¹à¦¾à¦œà§€ à¦¸à§‹à¦¨à¦¾à¦®à¦¿à§Ÿà¦¾ à¦¡à¦¿à¦—à§à¦°à§€ à¦•à¦²à§‡à¦œ,Pornograpy and Culture ,Freshman (Undergrad),Male,21-25,No,Yes,> 3.50,Yes,No,Yes,Most of the time,Yes,Most of the time,Yes,No,> 3 Hours,0,0,0,0,0,0,0,4,4,6,5,5,5,7,5,7,2,0.35714285714285715,35.523407
+Dhaka University ,BA honours ,Freshman (Undergrad),Male,21-25,No,Yes,3.01-3.50,No,No,No,Never occurs,No,Never,Yes,No,1-3 Hours,0,0,2,0,0,0,0,3,5,5,1,7,5,5,5,4,3,0.2857142857142857,50.599564
+Dhaka University ,B.A Honours,Junior (Undergrad),Female,21-25,No,No,< 3.00,No,Yes,No,Never occurs,No,Never,Yes,Yes,< 1 Hours,2,1,2,3,3,3,3,5,5,5,5,7,4,6,5,6,2,0.42857142857142855,42.379353
+National University ,MSS,Graduate student,Male,21-25,Yes,No,< 3.00,Yes,No,No,Sometimes,Yes,Never,No,No,> 3 Hours,1,0,2,2,1,2,0,2,5,6,2,0,4,2,5,3,3,0.42857142857142855,42.661095
+Kapasgola city corporation mohila college,Management ,Graduate student,Female,21-25,Yes,No,3.01-3.50,No,Yes,No,Sometimes,No,Rarely,No,No,1-3 Hours,0,0,2,2,2,2,2,5,4,3,2,7,2,5,5,2,1,0.5,-150.43752
+University of Dhaka,English,Graduate student,Female,21-25,Yes,No,3.01-3.50,No,No,No,Never occurs,No,Rarely,No,No,> 3 Hours,3,2,2,3,3,3,3,4,5,5,5,7,4,3,5,4,1,0.5714285714285714,57.04888
+Port city international University ,BBA ,Senior (Undergrad),Male,21-25,Yes,Yes,3.01-3.50,No,Yes,No,Never occurs,Yes,Never,Yes,No,> 3 Hours,0,2,3,3,0,3,1,3,5,3,5,7,5,6,5,4,2,0.5714285714285714,56.765026
+abdul malek ukil medical college,mbbs,Graduate student,Female,21-25,Yes,Yes,< 3.00,No,No,No,Sometimes,Yes,Rarely,Yes,Yes,> 3 Hours,0,1,0,1,0,1,1,6,2,7,2,7,3,5,5,6,7,0.21428571428571427,20.829475
+East Delta university ,EEE,Senior (Undergrad),Female,21-25,Yes,No,< 3.00,No,Yes,No,Sometimes,Yes,Rarely,Yes,Yes,> 3 Hours,2,1,1,2,2,3,2,6,4,6,5,7,3,7,5,5,2,0.5,49.89919
+Port City International University ,B.A. in English ,Graduate student,Female,< 20,No,Yes,3.01-3.50,No,No,No,Sometimes,No,Never,No,No,1-3 Hours,1,0,0,1,0,0,0,3,4,1,7,5,5,3,5,1,6,0.9285714285714286,92.67741
+Amumc,Mbbs,Senior (Undergrad),Female,21-25,No,No,3.01-3.50,No,No,No,Sometimes,Yes,Never,Yes,No,> 3 Hours,3,3,3,3,3,3,3,0,0,5,0,0,0,4,5,6,0,0.07142857142857142,-57.468063
+BGC Trust University Bangladesh ,CSE ,Senior (Undergrad),Female,21-25,Yes,Yes,> 3.50,No,No,No,Never occurs,Yes,Most of the time,Yes,No,> 3 Hours,0,3,0,0,0,3,0,7,0,7,5,7,0,7,5,7,0,0.35714285714285715,35.585316
+Port City International University ,MA in English ,Graduate student,Female,21-25,No,No,< 3.00,No,No,No,Sometimes,Yes,Most of the time,Yes,Yes,> 3 Hours,3,3,3,3,3,3,3,7,0,7,7,0,7,7,5,0,6,1.0,99.71729
+Port City International University ,B.A. in English ,Graduate student,Male,> 25,Yes,No,3.01-3.50,No,No,Yes,Never occurs,Yes,Rarely,No,No,> 3 Hours,2,1,2,3,2,3,2,2,2,3,4,3,2,3,5,2,2,0.6428571428571429,64.16964
+Bandarban gov.College ,Bss honors 2nd year(Economics) ,Graduate student,Male,< 20,No,No,3.01-3.50,No,No,No,Never occurs,Yes,Never,No,No,> 3 Hours,0,0,0,1,0,0,1,6,1,6,1,6,5,7,5,7,1,0.07142857142857142,16.673119
+Southeast University ,M.A in English ,Senior (Undergrad),Female,> 25,Yes,No,3.01-3.50,No,No,Yes,Sometimes,Yes,Rarely,No,No,> 3 Hours,1,3,3,2,2,2,3,6,0,4,0,6,6,5,5,5,4,0.14285714285714285,14.003807
+Govt.Hazi Mohammad Mohsin College ,B.Sc honours at Department of Physics ,Sophomore (Undergrad),Female,< 20,Yes,No,< 3.00,No,No,No,Sometimes,No,Rarely,Yes,Yes,> 3 Hours,1,1,2,2,2,1,3,7,0,3,1,7,1,7,5,7,0,0.07142857142857142,30.35559
+ CU,history,Graduate student,Male,21-25,Yes,Yes,< 3.00,No,No,No,Sometimes,Yes,Never,No,No,1-3 Hours,3,1,2,3,3,3,3,6,1,4,1,6,4,6,5,5,6,0.21428571428571427,-163.99434
+Abdul malek ukil medical College ,Mbbs,Junior (Undergrad),Female,21-25,No,No,3.01-3.50,No,Yes,No,Sometimes,Yes,Never,Yes,No,> 3 Hours,0,1,3,2,2,1,3,6,6,6,7,7,7,7,5,0,0,1.0,114.41517
+East Delta University ,CSE,Senior (Undergrad),Female,21-25,No,Yes,3.01-3.50,No,No,No,Sometimes,No,Never,Yes,Yes,> 3 Hours,3,3,3,3,3,3,3,7,1,6,1,6,6,5,5,6,6,0.14285714285714285,52.626366
+University of Chittagong,Honours,Graduate student,Female,21-25,No,No,> 3.50,No,Yes,No,Never occurs,No,Never,No,No,> 3 Hours,1,2,1,2,1,3,3,1,5,4,7,7,7,7,5,1,1,0.9285714285714286,92.701645
+East Delta university ,CSE,Senior (Undergrad),Male,21-25,No,No,3.01-3.50,No,No,No,Never occurs,Yes,Never,Yes,Yes,> 3 Hours,2,1,2,3,3,3,1,6,5,2,7,5,4,7,5,1,5,0.9285714285714286,100.87581
+"Shamsun Nahar khan Nursing college,  Chattogram ",Bachelor of science  in Nursing ,Freshman (Undergrad),Female,21-25,Yes,Yes,> 3.50,No,No,No,Sometimes,Yes,Rarely,Yes,No,> 3 Hours,3,3,3,3,3,2,3,2,5,7,2,5,6,5,5,3,2,0.42857142857142855,32.201138
+University of Chittagong,History,Graduate student,Female,21-25,No,No,> 3.50,No,No,No,Sometimes,Yes,Often,Yes,Yes,< 1 Hours,3,3,2,3,3,3,3,1,1,3,4,6,4,6,5,6,1,0.35714285714285715,63.01274
+East Delta University,CSE,Senior (Undergrad),Male,> 25,Yes,No,< 3.00,No,No,No,Sometimes,No,Never,Yes,No,< 1 Hours,1,0,0,1,1,2,0,2,5,6,6,5,5,5,5,3,3,0.7142857142857143,73.53804
+Progoti Nursing college ,Bsc. In Nursing ,Freshman (Undergrad),Male,> 25,Yes,Yes,3.01-3.50,No,No,Yes,Sometimes,No,Never,No,No,> 3 Hours,2,3,2,2,2,2,1,2,1,6,1,7,7,7,5,6,7,0.14285714285714285,18.153315
+Red crisent ,Diploma in nursing science and midwifery ,Freshman (Undergrad),Female,21-25,No,No,3.01-3.50,No,Yes,No,Sometimes,Yes,Most of the time,No,No,1-3 Hours,0,0,0,0,0,0,0,2,5,6,5,3,2,6,5,5,5,0.5,-132.08519
+"Islamic University, Kushtia ",LLB,Junior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,Yes,No,Never occurs,Yes,Rarely,No,No,> 3 Hours,2,0,3,2,1,2,3,7,6,4,5,3,2,6,5,5,2,0.5,-45.094376
+Mohsin College ,Accounting ,Senior (Undergrad),Male,21-25,Yes,Yes,< 3.00,No,No,No,Never occurs,Yes,Rarely,Yes,Yes,> 3 Hours,1,2,0,0,1,2,0,1,4,5,7,5,2,1,5,1,4,0.9285714285714286,76.02592
+Portcity international university ,EEE,Senior (Undergrad),Male,21-25,Yes,Yes,3.01-3.50,No,No,Yes,Sometimes,No,Never,No,No,> 3 Hours,3,3,3,3,3,3,1,1,7,5,7,5,7,4,5,1,7,0.9285714285714286,63.99371
+Govt Hazy muhammad Mohsin College,Physics department,Freshman (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,No,No,Most of the time,Yes,Never,No,No,> 3 Hours,1,2,0,2,1,2,3,5,3,6,6,3,7,5,5,5,7,0.5714285714285714,40.617676
+University of Dhaka ,English ,Freshman (Undergrad),Female,21-25,Yes,Yes,> 3.50,No,No,Yes,Sometimes,Yes,Rarely,No,Yes,< 1 Hours,1,2,2,2,2,1,1,6,5,6,6,6,4,7,5,3,3,0.7142857142857143,71.37224
+Govt. Hazi Muhammad Mohsin College ,Physics department ,Freshman (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,No,No,Sometimes,Yes,Never,No,Maybe,> 3 Hours,0,2,2,1,1,3,1,7,0,3,1,7,1,7,5,7,0,0.07142857142857142,28.518898
+East Delta University ,Cse,Senior (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,No,No,Never occurs,Yes,Never,No,No,< 1 Hours,3,0,3,3,3,0,3,6,1,4,1,6,4,6,5,5,6,0.21428571428571427,40.50151
+pciu,EEE,Senior (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,No,No,Sometimes,Yes,Never,Yes,No,> 3 Hours,1,1,2,0,1,2,1,6,6,6,7,7,7,7,5,0,0,1.0,99.83258
+Port city international University ,EEE,Senior (Undergrad),Male,> 25,Yes,Yes,> 3.50,No,Yes,No,Never occurs,Yes,Often,No,No,> 3 Hours,1,1,2,1,1,1,2,7,1,6,1,6,6,5,5,6,6,0.14285714285714285,14.249629
+Portcity International University ,EEE,Senior (Undergrad),Male,21-25,Yes,No,< 3.00,No,No,Yes,Never occurs,Yes,Rarely,Yes,No,> 3 Hours,1,1,1,3,1,2,1,1,5,4,7,7,7,7,5,1,1,0.9285714285714286,77.418434
+"Institute of Forestry and Environmental Sciences, Chittagong University ",Forestry ,Senior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,No,No,Sometimes,No,Never,No,No,1-3 Hours,1,3,2,2,1,2,1,6,5,2,7,5,4,7,5,1,5,0.9285714285714286,70.41324
+Govt. Hazi Mohammed Mohsin College,Botany,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Never occurs,No,Rarely,Yes,Yes,> 3 Hours,1,1,1,2,1,2,2,2,5,7,2,5,6,5,5,3,2,0.42857142857142855,42.488525
+University of Chittagong ,History ,Graduate student,Male,21-25,No,No,> 3.50,No,No,No,Never occurs,Yes,Never,No,No,1-3 Hours,3,3,3,0,1,2,2,4,3,2,1,0,1,2,5,4,5,0.2857142857142857,28.520275
+BRAC University,CSE,Graduate student,Male,21-25,Yes,No,< 3.00,No,Yes,Yes,Sometimes,No,Never,Yes,No,< 1 Hours,0,2,3,0,0,0,1,3,2,1,0,1,2,3,5,5,6,0.14285714285714285,14.167261
+Port city international university,B.A in English,Graduate student,Female,21-25,Yes,Yes,3.01-3.50,No,No,No,Sometimes,Yes,Rarely,No,Yes,> 3 Hours,3,3,0,3,3,2,0,5,6,6,7,4,7,4,5,3,7,0.7857142857142857,78.4298
+EDU,EEE,Junior (Undergrad),Female,21-25,Yes,Yes,< 3.00,No,No,No,Never occurs,No,Never,Yes,Yes,1-3 Hours,3,1,1,3,3,1,3,6,5,7,6,5,3,6,5,3,3,0.7142857142857143,71.21286
+Portcity international  University,EEE,Senior (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,Yes,No,Sometimes,No,Never,No,No,> 3 Hours,3,3,0,3,3,3,3,0,0,1,1,0,2,2,5,2,0,0.42857142857142855,42.42424
+Port city international University ,EEE,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Rarely,No,No,> 3 Hours,3,3,3,2,3,0,3,5,0,6,0,7,7,7,5,7,3,0.0,-0.2098346
+South Asian Nursing College. ,Diploma in Nursing,Freshman (Undergrad),Male,21-25,Yes,No,< 3.00,No,No,No,Sometimes,Yes,Never,Yes,No,1-3 Hours,2,0,3,3,3,3,3,6,0,4,0,6,6,5,5,5,4,0.14285714285714285,-51.37487
+East Delta University ,Computer Science and Engineering ,Senior (Undergrad),Female,21-25,Yes,Yes,< 3.00,No,No,No,Sometimes,No,Rarely,Yes,No,> 3 Hours,0,1,1,1,0,0,0,7,0,3,1,7,1,7,5,7,0,0.07142857142857142,6.736734
+Port City International University,EEE,Senior (Undergrad),Male,21-25,No,Yes,3.01-3.50,No,No,Yes,Sometimes,No,Often,No,No,1-3 Hours,2,1,2,3,2,2,2,6,1,4,1,6,4,6,5,5,6,0.21428571428571427,105.07555
+BRAC University ,CSE,Senior (Undergrad),Male,21-25,Yes,No,< 3.00,No,No,No,Never occurs,No,Never,No,No,1-3 Hours,0,1,1,0,0,2,2,6,6,6,7,7,7,7,5,0,0,1.0,8.0481
+East delta University ,CSE,Senior (Undergrad),Female,21-25,No,Yes,3.01-3.50,No,Yes,No,Sometimes,Yes,Rarely,No,No,> 3 Hours,2,2,2,1,2,2,3,7,1,6,1,6,6,5,5,6,6,0.14285714285714285,14.198168
+Shyamoli Ideal Polytechnic Institute,Electrical Engineering,Graduate student,Male,21-25,Yes,Yes,3.01-3.50,No,No,Yes,Never occurs,No,Rarely,No,Maybe,> 3 Hours,2,0,0,0,0,0,0,0,0,0,0,7,6,6,5,6,0,0.07142857142857142,21.936745
+East Delta University,Computer Science and Engineering,Senior (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,No,No,Never occurs,No,Never,No,No,< 1 Hours,1,1,0,0,0,0,0,1,1,7,7,7,7,5,5,1,1,0.9285714285714286,62.75731
+Dhaka College ,Management ,Graduate student,Male,21-25,No,No,3.01-3.50,No,No,Yes,Sometimes,Yes,Most of the time,Yes,Yes,< 1 Hours,0,1,1,3,3,1,0,3,4,5,5,2,5,5,5,2,2,0.7142857142857143,38.472157
+Chattogram University ,Physics Department ,Freshman (Undergrad),Female,> 25,Yes,Yes,< 3.00,No,No,No,Sometimes,Yes,Often,No,No,> 3 Hours,3,3,3,3,3,2,3,3,5,4,6,3,4,6,5,3,3,0.7142857142857143,71.24438
+Abdul Malek Ukil medical College ,MBBS ,Graduate student,Female,21-25,No,Yes,3.01-3.50,No,No,No,Never occurs,Yes,Never,No,No,1-3 Hours,0,1,1,2,0,1,3,1,2,1,0,3,1,7,5,7,0,0.0,-0.21682325
+East  Delta  university,B.sc  in  EEE,Graduate student,Male,> 25,Yes,Yes,< 3.00,No,No,No,Sometimes,No,Never,No,No,1-3 Hours,0,1,2,1,2,2,2,1,1,6,1,6,6,6,5,6,2,0.14285714285714285,20.04698
+Govt. Haji Mohammad Mohsin College ,Math Department ,Freshman (Undergrad),Female,< 20,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Rarely,No,No,> 3 Hours,0,3,3,3,3,3,3,1,7,5,7,5,7,4,5,1,7,0.9285714285714286,81.06882
+Chittagong University   ,Chemistry Department ,Freshman (Undergrad),Female,> 25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Often,Yes,Yes,> 3 Hours,2,2,3,3,3,3,3,5,3,6,6,3,7,5,5,5,7,0.5714285714285714,56.929695
+Brac University ,CSE,Sophomore (Undergrad),Female,21-25,No,No,3.01-3.50,No,No,No,Sometimes,No,Never,Yes,No,> 3 Hours,2,1,3,3,3,3,0,6,5,6,6,6,4,7,5,3,3,0.7142857142857143,71.2327
+chittagong university,law,Freshman (Undergrad),Female,21-25,No,No,3.01-3.50,No,No,No,Sometimes,Yes,Rarely,Yes,Maybe,> 3 Hours,2,3,3,2,3,2,2,5,1,4,6,5,2,7,5,2,1,0.7857142857142857,78.370575
+University of Chittagong ,LL.B,Freshman (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,Yes,Yes,Never occurs,Yes,Rarely,No,No,< 1 Hours,1,1,3,3,1,3,1,5,2,5,5,2,5,3,5,6,2,0.42857142857142855,42.523926
+"Govt. City College, Chittagong ",Hohgj,Freshman (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Never,Yes,No,1-3 Hours,0,1,2,2,1,1,1,3,5,6,1,6,6,4,5,7,2,0.07142857142857142,6.618867
+East Delta University,EEE,Senior (Undergrad),Male,21-25,Yes,Yes,3.01-3.50,No,No,No,Sometimes,Yes,Never,No,No,> 3 Hours,1,1,2,1,0,0,0,3,5,4,5,6,5,5,5,4,4,0.5714285714285714,56.131714
+Hazera-Taju Degree College ,HSC,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,Yes,No,Sometimes,No,Rarely,Yes,No,> 3 Hours,1,3,2,3,2,1,2,1,4,5,7,6,5,4,5,1,3,0.9285714285714286,92.68081
+ProfessionalÃ¤ school of business,Bba,Junior (Undergrad),Male,21-25,Yes,Yes,< 3.00,No,No,No,Sometimes,No,Rarely,No,No,1-3 Hours,1,1,0,1,1,1,3,2,5,6,6,7,4,7,5,4,3,0.6428571428571429,61.475338
+Chattogram  College ,Zoology ,Graduate student,Female,21-25,Yes,No,3.01-3.50,No,No,No,Most of the time,No,Rarely,Yes,Yes,> 3 Hours,3,1,3,3,3,3,3,1,6,5,7,6,5,3,5,2,3,0.8571428571428571,85.62084
+University of Chittagong ,Law,Freshman (Undergrad),Female,> 25,Yes,Yes,3.01-3.50,No,No,No,Never occurs,No,Rarely,No,Yes,> 3 Hours,0,1,3,2,0,3,2,1,0,0,1,1,0,2,5,0,2,0.5714285714285714,56.96214
+Port city university ,Fashion design and technology ,Freshman (Undergrad),Female,> 25,Yes,No,3.01-3.50,No,No,No,Never occurs,Yes,Never,No,Yes,> 3 Hours,1,2,1,2,1,2,1,1,3,2,1,0,1,2,5,4,5,0.2857142857142857,-154.09682
+East Delta university ,PGDHRM,Graduate student,Male,21-25,Yes,Yes,3.01-3.50,Yes,Yes,No,Sometimes,Yes,Never,No,No,> 3 Hours,3,2,3,3,3,3,3,2,5,6,6,7,4,7,5,4,3,0.6428571428571429,63.996593
+East Delta University ,Cse,Senior (Undergrad),Male,21-25,Yes,No,< 3.00,No,No,Yes,Sometimes,No,Rarely,Yes,No,1-3 Hours,2,2,3,3,2,3,2,1,6,5,7,6,5,3,5,2,3,0.8571428571428571,85.80465
+East Delta University ,Bsc in CSE,Freshman (Undergrad),Male,< 20,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Rarely,Yes,Yes,< 1 Hours,1,2,3,1,2,2,1,1,0,0,1,1,0,2,5,0,2,0.5714285714285714,57.077282
+University of Chittagong ,LLM,Graduate student,Female,> 25,No,No,3.01-3.50,No,Yes,No,Never occurs,No,Never,Yes,Yes,< 1 Hours,1,0,1,1,1,3,2,2,5,0,6,0,7,7,5,6,7,0.5,49.620388
+Govt Hazi Mohammed Mohsin College ,Hsc,Senior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,Yes,Yes,Most of the time,Yes,Often,Yes,Maybe,> 3 Hours,3,3,3,3,3,3,3,2,4,1,5,7,7,7,5,3,3,0.6428571428571429,64.12863
+University of Chittagong ,LL.B,Graduate student,Male,21-25,Yes,No,< 3.00,No,No,No,Never occurs,Yes,Never,No,No,1-3 Hours,2,3,3,3,3,2,3,7,6,4,5,3,2,6,5,5,3,0.5,49.715633
+East delta University ,Cse,Senior (Undergrad),Male,21-25,Yes,Yes,< 3.00,No,No,Yes,Most of the time,Yes,Most of the time,Yes,No,< 1 Hours,1,3,2,3,3,3,3,1,1,3,4,6,4,6,5,6,1,0.35714285714285715,35.618305
+Chittagong Polytechnic Institute ,Electronics technology ,Graduate student,Female,21-25,Yes,Yes,3.01-3.50,No,Yes,No,Sometimes,No,Never,No,Yes,> 3 Hours,0,2,3,3,2,1,1,2,5,6,6,5,5,5,5,3,6,0.7142857142857143,63.963993
+Chittagong  independent  university ,Bba,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,Yes,No,Never occurs,No,Never,No,No,> 3 Hours,0,0,0,0,0,0,0,2,1,6,1,7,7,7,5,6,2,0.14285714285714285,-59.90693
+University of Chittagong. ,History ,Graduate student,Male,21-25,Yes,No,< 3.00,No,No,No,Sometimes,Yes,Never,No,No,> 3 Hours,3,1,2,0,0,2,0,2,5,6,5,3,2,6,5,5,3,0.5,-20.603954
+"East Delta University, Chittagong ",EEE,Junior (Undergrad),Male,21-25,Yes,Yes,< 3.00,No,Yes,No,Never occurs,Yes,Often,No,No,1-3 Hours,1,1,3,3,3,3,3,7,6,4,5,3,2,6,5,5,3,0.5,31.341202
+European University,Bsc in EEE,Graduate student,Male,21-25,Yes,Yes,3.01-3.50,No,No,No,Sometimes,No,Rarely,Yes,No,1-3 Hours,1,2,0,1,0,1,2,1,4,5,7,5,2,1,5,1,3,0.9285714285714286,92.31946
+Mohila college Chottogram ,Botany ,Freshman (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Never occurs,Yes,Often,Yes,Yes,< 1 Hours,3,0,0,3,3,1,0,1,7,5,7,5,7,4,5,1,7,0.9285714285714286,92.62504
+East Delta University ,BBA,Sophomore (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,Yes,Sometimes,No,Rarely,Yes,Yes,> 3 Hours,2,3,3,3,3,3,3,3,3,5,5,2,6,5,5,1,3,0.7857142857142857,78.285126
+East Delta university ,BSc. In CSE ,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,Yes,Never occurs,Yes,Rarely,Yes,No,> 3 Hours,2,3,3,3,3,3,3,1,5,5,6,5,5,5,5,3,3,0.7142857142857143,71.271675
+East Delta University,CSE,Senior (Undergrad),Female,21-25,No,Yes,3.01-3.50,No,No,No,Never occurs,Yes,Never,Yes,No,1-3 Hours,1,1,0,3,3,2,0,2,4,3,5,3,6,1,5,3,7,0.6428571428571429,63.706936
+"Govt. Hazi Mohammad Mohsin College, Chattogram ",Mathematics ,Freshman (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,No,No,Sometimes,Yes,Often,No,No,1-3 Hours,2,0,3,2,0,3,3,2,6,5,7,5,6,6,5,1,5,0.9285714285714286,92.73199
+East Delta University ,BSc in CSE,Senior (Undergrad),Male,21-25,Yes,No,< 3.00,Yes,No,No,Sometimes,Yes,Often,Yes,No,< 1 Hours,2,1,1,2,2,3,1,7,6,4,5,3,2,6,5,5,2,0.5,49.83069
+Khulna University ,BBA in HRM,Junior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,Yes,No,Sometimes,Yes,Often,No,Yes,> 3 Hours,1,1,2,2,2,2,3,1,4,5,7,5,2,1,5,1,4,0.9285714285714286,43.969746
+East Delta University ,Bba,Senior (Undergrad),Female,> 25,Yes,Yes,3.01-3.50,No,No,No,Sometimes,Yes,Never,Yes,No,> 3 Hours,2,1,2,0,0,0,0,1,7,5,7,5,7,4,5,1,7,0.9285714285714286,92.67109
+Islamic University Kushtia ,Bachelor of Law ,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Rarely,No,No,> 3 Hours,2,1,2,1,2,1,1,5,3,6,6,3,7,5,5,5,7,0.5714285714285714,56.32182
+national university,Bsc,Graduate student,Male,21-25,Yes,No,< 3.00,No,No,Yes,Sometimes,Yes,Often,Yes,No,1-3 Hours,1,2,2,3,2,2,2,6,5,6,6,6,4,7,5,3,3,0.7142857142857143,71.268326
+University of Chittagong ,Law Department ,Freshman (Undergrad),Female,< 20,No,No,3.01-3.50,No,No,No,Never occurs,No,Most of the time,No,Yes,1-3 Hours,3,3,3,3,3,3,3,0,0,1,1,0,2,2,5,2,0,0.42857142857142855,42.748528
+University of Chittagong ,B.Sc honours,Senior (Undergrad),Female,> 25,Yes,No,> 3.50,No,Yes,No,Sometimes,Yes,Rarely,Yes,Yes,1-3 Hours,1,1,1,1,1,2,1,5,0,6,0,7,7,7,5,7,3,0.0,43.593914
+East Delta University ,CSE,Junior (Undergrad),Prefer not to say,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Never,Yes,No,> 3 Hours,2,3,3,2,2,2,3,4,1,5,7,7,7,3,5,3,3,0.7857142857142857,78.587494
+Govt. Hazi Mohammad Mohsin College,Class 12,Freshman (Undergrad),Male,21-25,Yes,Yes,< 3.00,No,No,No,Never occurs,Yes,Rarely,No,No,1-3 Hours,2,2,2,2,1,2,1,2,4,6,3,7,6,4,5,1,1,0.6428571428571429,64.03343
+BRAC University,CSE,Senior (Undergrad),Female,21-25,No,No,3.01-3.50,Yes,No,Yes,Sometimes,Yes,Never,Yes,No,> 3 Hours,1,2,3,1,1,0,1,6,5,3,7,7,2,1,5,3,4,0.7857142857142857,72.57095
+East Delta University ,CSE,Senior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,No,No,Never occurs,Yes,Rarely,Yes,No,1-3 Hours,2,1,3,3,3,3,1,5,5,3,4,6,5,7,5,1,1,0.7142857142857143,73.69178
+East Delta University,BSc in CSE,Senior (Undergrad),Male,21-25,Yes,No,> 3.50,Yes,Yes,No,Sometimes,No,Rarely,No,No,1-3 Hours,1,3,2,1,1,3,2,2,5,3,4,2,3,5,5,1,1,0.7142857142857143,69.56026
+"Chittagong College, Chattogarm",MSc in Zoology,Graduate student,Male,> 25,Yes,Yes,> 3.50,No,No,No,Sometimes,Yes,Rarely,No,No,1-3 Hours,2,1,1,1,1,2,0,5,4,3,2,7,6,5,5,2,2,0.5,49.629295
+BUET,BSc Engineering ,Senior (Undergrad),Female,21-25,No,Yes,> 3.50,No,No,No,Sometimes,No,Never,Yes,Maybe,> 3 Hours,0,3,3,3,1,1,2,4,5,5,5,7,5,1,5,7,3,0.35714285714285715,35.432064
+University of Dhaka ,Management ,Graduate student,Male,> 25,Yes,Yes,> 3.50,No,No,No,Sometimes,Yes,Most of the time,No,No,1-3 Hours,1,0,0,0,1,1,0,3,5,3,5,7,7,4,5,2,3,0.7142857142857143,-14.323995
+National University ,Computer Science Engineering ,Graduate student,Male,21-25,Yes,Yes,3.01-3.50,No,No,No,Sometimes,Yes,Never,Yes,No,> 3 Hours,2,1,2,1,1,3,1,1,5,4,7,7,7,7,5,1,1,0.9285714285714286,92.582115
+Jagannath University ,MBA,Graduate student,Female,21-25,Yes,Yes,3.01-3.50,No,Yes,No,Sometimes,No,Rarely,Yes,No,1-3 Hours,2,2,3,2,2,3,2,6,5,2,7,5,4,7,5,1,5,0.9285714285714286,34.202076
+I don't want to share,CSE ,Senior (Undergrad),Male,21-25,No,No,3.01-3.50,No,No,Yes,Sometimes,No,Rarely,Yes,Maybe,> 3 Hours,2,3,3,3,2,2,2,2,5,7,2,5,6,5,5,3,2,0.42857142857142855,4.4102616
+Uits,Bba,Sophomore (Undergrad),Male,21-25,No,Yes,> 3.50,Yes,Yes,No,Sometimes,No,Never,No,No,1-3 Hours,0,0,0,0,0,3,0,1,1,3,4,6,4,6,5,6,1,0.35714285714285715,35.593254
+Brac,Cse,Sophomore (Undergrad),Male,21-25,No,No,3.01-3.50,No,No,Yes,Never occurs,Yes,Never,Yes,No,1-3 Hours,2,2,2,2,2,2,3,1,6,5,7,6,1,5,5,2,7,0.8571428571428571,85.620316
+Ahsanullah University of Science and Technology,BSc in EEE,Graduate student,Male,21-25,Yes,No,< 3.00,Yes,Yes,Yes,Most of the time,Yes,Often,Yes,No,> 3 Hours,3,3,3,3,3,3,3,3,3,5,5,2,6,5,5,1,1,0.7857142857142857,78.40935
+Dhaka college,Ba(English),Graduate student,Male,21-25,Yes,No,> 3.50,No,No,No,Never occurs,Yes,Rarely,Yes,No,1-3 Hours,1,1,2,1,2,2,0,1,5,5,6,5,5,5,5,3,5,0.7142857142857143,76.10063
+Dhaka College ,Geography and Environment ,Freshman (Undergrad),Male,21-25,Yes,No,< 3.00,No,No,No,Never occurs,Yes,Never,No,No,> 3 Hours,1,3,1,2,1,3,1,2,4,3,5,3,6,1,5,3,4,0.6428571428571429,-83.890396
+"Lalmatia mohila college,Dhaka.",Management ,Freshman (Undergrad),Female,> 25,Yes,No,< 3.00,No,No,Yes,Sometimes,Yes,Rarely,Yes,Yes,> 3 Hours,3,1,1,3,3,3,3,2,6,5,7,5,6,6,5,1,2,0.9285714285714286,92.70675
+East Delta University ,Economic Department ,Freshman (Undergrad),Female,21-25,Yes,No,< 3.00,No,No,No,Sometimes,No,Never,Yes,No,> 3 Hours,1,1,2,1,0,0,1,1,1,7,7,7,7,5,5,1,1,0.9285714285714286,51.30793
+Army IBA,BBA,Graduate student,Male,21-25,Yes,Yes,3.01-3.50,No,No,No,Sometimes,No,Rarely,Yes,No,1-3 Hours,1,1,2,1,1,1,1,3,4,5,5,2,5,5,5,2,2,0.7142857142857143,71.20766
+Khulna Medical College,Mbbs,Senior (Undergrad),Female,21-25,No,Yes,> 3.50,No,No,No,Sometimes,No,Rarely,Yes,No,> 3 Hours,2,2,2,2,2,3,3,3,5,4,6,3,4,6,5,3,3,0.7142857142857143,88.928734
+Ahsanullah University of Science and Technology ,EEE,Senior (Undergrad),Male,21-25,No,Yes,3.01-3.50,No,No,No,Never occurs,No,Never,No,No,> 3 Hours,0,1,1,1,0,0,1,1,2,1,0,3,1,7,5,7,0,0.0,-44.60946
+East Delta University,CSE,Senior (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,No,No,Never occurs,No,Never,No,No,1-3 Hours,0,1,1,1,2,2,1,1,2,1,0,3,1,7,0,7,0,0.0,49.705868
+Brac,Cse,Senior (Undergrad),Prefer not to say,21-25,No,No,> 3.50,Yes,No,No,Never occurs,No,Rarely,No,No,> 3 Hours,0,0,2,0,1,0,1,1,2,1,0,3,1,7,0,7,0,0.0,-0.13176781
+IUB,English Literature,Freshman (Undergrad),Male,> 25,Yes,No,> 3.50,No,Yes,No,Sometimes,Yes,Rarely,Yes,Yes,> 3 Hours,1,2,2,1,1,1,2,6,5,5,3,5,4,7,6,6,1,0.2857142857142857,28.10306
+Gurudayal Government College ,Science ,Freshman (Undergrad),Male,< 20,No,No,< 3.00,No,No,No,Never occurs,Yes,Rarely,Yes,Maybe,> 3 Hours,3,3,2,0,3,3,3,5,0,2,6,5,5,7,6,0,0,0.9285714285714286,92.8152
+East delta University,Engineering ,Sophomore (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Never occurs,No,Never,No,No,> 3 Hours,1,1,1,1,1,1,0,1,1,6,1,6,6,6,1,6,2,0.14285714285714285,14.141473
+Premier University Chittagong ,English language and literature ,Freshman (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,Yes,No,No,Most of the time,No,Never,No,Maybe,> 3 Hours,1,2,3,2,1,1,0,5,5,7,5,1,4,6,1,6,1,0.42857142857142855,42.078224
+East Delta University ,EEE ,Senior (Undergrad),Female,21-25,Yes,Yes,> 3.50,No,No,No,Sometimes,Yes,Never,Yes,Yes,> 3 Hours,2,1,2,2,2,3,2,5,1,6,7,5,3,7,2,4,4,0.7142857142857143,71.25589
+AIUB,Cse,Graduate student,Male,21-25,No,No,3.01-3.50,No,No,No,Never occurs,No,Never,Yes,No,> 3 Hours,1,1,0,2,2,1,1,2,1,7,1,5,6,6,1,5,5,0.21428571428571427,21.352736
+Rangamati Medical College,MBBS,Senior (Undergrad),Male,21-25,No,Yes,> 3.50,No,No,No,Sometimes,No,Never,No,Yes,> 3 Hours,1,0,0,1,0,2,0,7,2,6,2,7,3,6,1,7,1,0.14285714285714285,14.214903
+KUET ,Bsc Engineering in EEE,Senior (Undergrad),Male,21-25,No,No,< 3.00,No,No,Yes,Sometimes,Yes,Most of the time,Yes,Yes,> 3 Hours,1,1,2,2,2,2,2,2,0,3,3,1,2,1,2,3,4,0.5,-82.40017
+National Institute Of Textile Engineering & Research (NITER),Bsc in Textile Engineering ,Graduate student,Male,21-25,No,Yes,< 3.00,No,No,No,Sometimes,No,Often,Yes,No,> 3 Hours,2,1,2,2,2,1,1,3,3,3,3,3,4,3,3,3,2,0.5,49.694786
+East delta University ,Economics ,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Never,No,No,> 3 Hours,1,1,1,2,2,3,1,1,1,5,3,5,6,6,2,6,3,0.2857142857142857,28.370958
+East Delta University ,CSE,Graduate student,Male,> 25,Yes,No,> 3.50,No,No,No,Sometimes,No,Rarely,Yes,No,> 3 Hours,3,3,3,2,2,3,3,1,1,4,4,6,7,7,6,7,4,0.2857142857142857,27.530628
+"Govt. Syed Hatem Ali College, Barisal",Zoology,Senior (Undergrad),Male,21-25,No,Yes,3.01-3.50,No,No,No,Sometimes,No,Never,No,No,> 3 Hours,0,2,1,1,0,1,2,0,0,1,2,0,7,3,4,7,2,0.14285714285714285,13.768416
+Chittagong University of Engineering and Technology,Computer Science and Engineering,Senior (Undergrad),Male,> 25,Yes,Yes,> 3.50,No,Yes,No,Sometimes,No,Never,No,No,> 3 Hours,3,2,2,1,2,2,2,7,6,5,4,3,1,0,1,2,3,0.6428571428571429,64.096054
+University of Chittagong,computer science and engineering,Junior (Undergrad),Male,> 25,Yes,Yes,3.01-3.50,No,No,Yes,Sometimes,No,Never,No,No,1-3 Hours,2,3,1,2,3,1,3,6,5,4,3,2,1,0,1,2,3,0.5714285714285714,57.038586
+University of Dhaka,computer science and engineering,Senior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,No,No,Never occurs,No,Never,No,No,1-3 Hours,1,2,0,3,2,0,2,5,4,3,2,1,0,1,2,3,4,0.42857142857142855,42.637794
+Khulna University of Engineering & Technology,computer science and engineering,Senior (Undergrad),Male,21-25,No,No,< 3.00,No,No,No,Sometimes,No,Never,Yes,No,1-3 Hours,0,1,1,2,1,1,1,4,3,2,1,0,1,2,3,4,5,0.2857142857142857,29.295212
+American International University - Bangladesh,computer science and engineering,Sophomore (Undergrad),Female,21-25,No,No,< 3.00,Yes,No,No,Sometimes,No,Never,Yes,No,1-3 Hours,3,2,2,1,2,2,2,3,2,1,0,1,2,3,4,5,6,0.14285714285714285,14.10933
+"Shahid Abdur Rab Serniabat Textile Engineering College, Barishal",Apparel Engineering ,Sophomore (Undergrad),Female,21-25,No,No,3.01-3.50,No,Yes,No,Sometimes,No,Never,Yes,No,1-3 Hours,1,2,1,1,1,1,2,5,6,6,7,4,7,4,4,3,7,0.7857142857142857,78.24384
+East Delta University,EEE,Graduate student,Female,21-25,Yes,Yes,> 3.50,No,Yes,No,Sometimes,Yes,Never,No,Maybe,1-3 Hours,2,1,1,1,1,0,1,6,5,7,6,5,3,6,2,3,3,0.7142857142857143,26.235708
+University of Chittagong ,Bsc,Senior (Undergrad),Female,21-25,Yes,Yes,> 3.50,No,No,No,Never occurs,No,Often,No,No,1-3 Hours,1,0,1,1,1,1,0,0,0,1,1,0,2,2,0,2,0,0.42857142857142855,48.480385
+East Delta University,CSE,Senior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Never occurs,No,Rarely,No,No,> 3 Hours,1,1,1,1,0,3,0,5,0,6,0,7,7,7,6,7,3,0.0,38.857944
+East Delta University ,B.SC,Senior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,Yes,No,Never occurs,No,Never,Yes,Yes,> 3 Hours,2,1,3,2,2,2,3,4,1,5,7,7,7,3,3,3,3,0.7857142857142857,78.43721
+Noakhali Science and Technology University ,B.Sc,Graduate student,Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Never,No,No,1-3 Hours,1,1,2,2,1,1,0,3,1,4,1,6,6,4,5,6,2,0.14285714285714285,10.473791
+East delta University ,Cse,Senior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,Yes,No,Sometimes,Yes,Never,Yes,Yes,> 3 Hours,2,2,1,1,2,1,2,2,2,5,5,5,5,2,2,5,5,0.5,21.31711
+University of Chittagong,English,Junior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,No,No,Never occurs,No,Never,Yes,Yes,> 3 Hours,1,1,2,2,2,2,3,2,1,6,6,5,7,7,1,5,2,0.5714285714285714,57.10734
+Islamia Degree College ,Marketing ,Sophomore (Undergrad),Male,21-25,Yes,No,> 3.50,No,No,No,Never occurs,Yes,Never,Yes,No,> 3 Hours,1,2,0,3,0,3,2,7,1,4,3,7,1,7,1,4,1,0.42857142857142855,42.494835
+East Delta University ,Cse,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,Yes,No,Sometimes,Yes,Never,No,No,> 3 Hours,1,0,0,0,0,1,2,4,4,2,3,3,0,4,4,4,4,0.42857142857142855,51.38669
+United International University,CSE,Senior (Undergrad),Male,21-25,No,No,> 3.50,No,No,Yes,Sometimes,No,Rarely,Yes,No,> 3 Hours,2,2,2,2,3,3,3,6,2,5,6,4,5,5,4,4,3,0.6428571428571429,64.2471
+East Delta University ,EEE,Graduate student,Male,> 25,Yes,No,3.01-3.50,No,No,Yes,Most of the time,No,Never,No,No,> 3 Hours,3,1,2,3,2,3,2,7,4,4,5,6,4,6,6,4,5,0.5714285714285714,57.356655
+East Delta University ,CSE,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Never,Yes,No,1-3 Hours,1,1,0,1,1,1,1,0,1,2,3,3,3,3,2,3,3,0.5,52.011776
+East Delta University ,CSE,Senior (Undergrad),Male,21-25,Yes,Yes,3.01-3.50,No,No,No,Sometimes,Yes,Rarely,No,No,> 3 Hours,0,0,0,0,0,1,0,3,3,3,3,3,3,3,3,3,3,0.5,69.21209
+East Delta,CSE,Senior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Never,Yes,No,> 3 Hours,1,3,3,3,2,3,3,5,2,6,6,5,7,7,7,3,5,0.7142857142857143,71.20977
+Jadavpur University,Civil Engineering ,Graduate student,Male,21-25,No,No,3.01-3.50,No,No,No,Sometimes,No,Never,No,No,> 3 Hours,1,2,1,0,0,3,0,5,2,6,1,6,6,6,4,4,2,0.2857142857142857,-11.073366
+IIUC ,CSE ,Graduate student,Female,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Never,No,Maybe,1-3 Hours,1,2,2,2,3,2,3,5,5,5,6,6,4,5,4,3,4,0.7142857142857143,71.28905
+BGC Trust Medical College Hospital.,MBBS,Graduate student,Male,> 25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Most of the time,Yes,No,> 3 Hours,2,3,1,0,1,3,3,7,3,5,7,7,0,7,0,0,2,1.0,79.747375
+East delta University ,Graduated,Graduate student,Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Rarely,Yes,No,1-3 Hours,1,1,2,1,1,1,1,1,0,3,3,3,2,5,5,6,3,0.2857142857142857,-3.9582162
+East Delta University,BBA,Senior (Undergrad),Male,> 25,Yes,No,< 3.00,No,No,No,Never occurs,Yes,Never,No,No,1-3 Hours,0,0,2,1,1,2,0,6,5,5,0,7,4,6,4,7,5,0.0,36.64636
+Bangladesh University of Business and Technology ,EEE,Senior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,Yes,Yes,Never occurs,No,Never,Yes,No,> 3 Hours,3,3,3,3,0,1,2,3,4,1,7,5,5,3,7,1,6,0.9285714285714286,92.6598
+Brac University ,EEE,Senior (Undergrad),Male,21-25,No,Yes,> 3.50,No,No,No,Sometimes,No,Never,No,No,1-3 Hours,0,1,1,0,0,0,0,0,0,5,0,0,0,4,6,6,0,0.07142857142857142,3.975316
+USTC medical college ,MBBS,Graduate student,Male,> 25,Yes,Yes,> 3.50,No,Yes,No,Sometimes,No,Rarely,No,No,> 3 Hours,1,0,1,1,1,1,1,7,0,7,5,7,0,7,1,7,0,0.35714285714285715,14.542352
+Narsingdi govt. College,Hons.,Graduate student,Prefer not to say,21-25,Yes,No,3.01-3.50,No,Yes,No,Never occurs,Yes,Never,Yes,Yes,> 3 Hours,3,3,3,3,2,3,3,7,0,7,7,0,7,7,0,0,6,1.0,76.16244
+National University ,Honors,Senior (Undergrad),Male,21-25,Yes,Yes,3.01-3.50,No,No,No,Most of the time,No,Never,Yes,No,> 3 Hours,0,1,0,0,1,2,2,2,2,3,4,3,2,3,4,2,2,0.6428571428571429,64.228096
+International Islamic University Chittagong,Computer and Communication Engineering,Senior (Undergrad),Male,21-25,Yes,No,> 3.50,No,No,No,Never occurs,No,Never,Yes,Maybe,1-3 Hours,0,1,0,1,0,1,0,6,1,6,1,6,5,7,1,7,1,0.07142857142857142,6.683
+East Delta University,CSE,Senior (Undergrad),Male,> 25,Yes,No,< 3.00,No,No,No,Never occurs,No,Never,Yes,No,> 3 Hours,0,0,0,0,0,0,0,6,0,4,0,6,6,5,5,5,4,0.14285714285714285,46.200073
+East Delta,EEE,Senior (Undergrad),Male,21-25,Yes,Yes,3.01-3.50,Yes,Yes,No,Sometimes,No,Never,No,No,> 3 Hours,0,0,0,0,1,1,1,7,0,3,1,7,1,7,2,7,0,0.07142857142857142,7.129314
+Premier University Chittagong,BSc in CSE,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Never occurs,No,Rarely,No,No,> 3 Hours,2,0,1,2,2,2,1,6,1,4,1,6,4,6,5,5,6,0.21428571428571427,17.667574
+University of Chittagong ,BBA,Senior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Never,No,Yes,> 3 Hours,1,3,3,2,2,3,3,6,6,6,7,7,7,7,7,0,0,1.0,99.92886
+East Delta University ,EEE,Senior (Undergrad),Male,21-25,Yes,No,< 3.00,No,No,No,Sometimes,Yes,Often,Yes,No,> 3 Hours,1,3,1,3,1,2,0,7,1,6,1,6,6,5,1,6,6,0.14285714285714285,30.692928
+East Delta University,EEE,Graduate student,Male,21-25,Yes,Yes,3.01-3.50,No,Yes,No,Never occurs,No,Never,Yes,No,> 3 Hours,0,3,0,1,1,1,0,0,0,0,0,7,6,6,0,6,0,0.07142857142857142,33.025135
+East Delta University ,CSE,Graduate student,Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Rarely,Yes,No,> 3 Hours,1,3,3,3,3,2,3,2,6,3,4,5,3,3,3,6,3,0.35714285714285715,37.560226
+East Delta University ,CSE,Graduate student,Male,21-25,Yes,Yes,< 3.00,No,No,No,Sometimes,Yes,Rarely,No,No,1-3 Hours,0,0,0,0,0,0,0,7,1,1,1,7,7,7,1,7,7,0.07142857142857142,6.388066
+East Delta university,CSE,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Never occurs,No,Never,No,Maybe,> 3 Hours,0,1,1,1,0,0,2,3,2,5,3,3,6,2,6,4,4,0.42857142857142855,42.741
+Premier University Chittagong,LLB ,Senior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Never occurs,No,Never,No,No,> 3 Hours,1,1,2,3,3,2,2,2,2,4,6,4,7,6,4,4,5,0.6428571428571429,63.93245
+Stamford University Bangladesh ,Department of Civil Engineering ,Senior (Undergrad),Male,21-25,No,No,3.01-3.50,Yes,No,No,Never occurs,No,Most of the time,No,No,> 3 Hours,1,2,1,3,2,3,3,5,5,4,4,5,4,5,6,6,5,0.35714285714285715,35.471107
+East Delta University ,BSC in CSE,Senior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Never,Yes,No,> 3 Hours,1,2,2,3,2,2,1,5,5,5,5,6,6,6,7,6,5,0.42857142857142855,42.70037
+Rangpur Medical College,MBBS,Graduate student,Male,> 25,Yes,Yes,3.01-3.50,No,Yes,No,Sometimes,No,Rarely,Yes,No,> 3 Hours,2,3,3,3,3,3,3,4,6,6,7,5,7,6,7,2,1,0.8571428571428571,85.258896
+KUET,Mechanical Engineering,Sophomore (Undergrad),Male,21-25,No,No,< 3.00,No,Yes,No,Sometimes,No,Rarely,Yes,No,> 3 Hours,2,3,1,3,3,2,2,2,5,2,6,5,5,4,6,0,6,0.9285714285714286,92.56367
+National University ,Statistics ,Senior (Undergrad),Male,21-25,Yes,No,< 3.00,No,No,Yes,Sometimes,Yes,Never,No,No,> 3 Hours,0,3,1,1,0,3,3,5,7,7,7,7,1,7,3,7,0,0.5,49.884415
+National University ,BSc,Senior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,Yes,Yes,Sometimes,Yes,Most of the time,Yes,Yes,> 3 Hours,3,0,3,3,3,3,0,6,6,7,0,7,7,7,0,6,0,0.07142857142857142,6.82754
+Siddheswari College ,BBA (Hon's) Department of Marketing ,Junior (Undergrad),Female,21-25,Yes,No,< 3.00,No,Yes,No,Never occurs,No,Often,Yes,No,> 3 Hours,3,1,0,3,3,3,3,7,1,3,7,7,7,4,5,3,2,0.7857142857142857,78.47755
+East Delta University ,EEE,Senior (Undergrad),Male,21-25,Yes,No,< 3.00,No,Yes,No,Sometimes,No,Never,No,No,> 3 Hours,0,1,0,1,1,1,2,5,5,5,7,5,1,5,1,5,1,0.6428571428571429,64.21798
+EDU,EEE,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,Yes,Yes,No,Never occurs,Yes,Rarely,Yes,No,1-3 Hours,1,0,1,0,1,1,0,4,0,0,0,4,0,7,5,5,5,0.14285714285714285,14.195153
+Daffodil university ,Architectural visualisation ,Freshman (Undergrad),Male,> 25,Yes,No,< 3.00,Yes,No,Yes,Never occurs,Yes,Often,Yes,Yes,< 1 Hours,2,1,1,3,3,3,3,6,4,6,5,7,5,7,5,6,0,0.42857142857142855,30.88345
+Nanjing University of Aeronautics and Astronautics,Mechanical Engineering,Senior (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,No,No,Never occurs,No,Never,No,No,> 3 Hours,2,2,2,2,2,2,2,3,3,3,3,4,3,4,3,3,3,0.5,49.90953
+National University  ,Bsc,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Rarely,Yes,No,> 3 Hours,3,3,2,1,3,3,3,3,2,7,7,6,6,6,1,2,4,0.8571428571428571,85.59629
+East Delta University,EEE,Senior (Undergrad),Male,21-25,Yes,Yes,< 3.00,No,No,No,Sometimes,Yes,Rarely,Yes,No,1-3 Hours,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,0.5,60.65623
+National university ,Bachelor of Social Science,Graduate student,Female,21-25,Yes,No,< 3.00,No,No,No,Sometimes,No,Most of the time,Yes,Yes,> 3 Hours,3,3,3,3,3,3,3,0,7,7,7,7,7,7,4,4,0,0.7142857142857143,41.803722
+Institute of Science & Technology (IST),Bachelors of Business Administration,Graduate student,Male,> 25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Rarely,Yes,Yes,1-3 Hours,1,0,1,1,0,2,0,1,1,4,2,5,1,4,2,5,2,0.2857142857142857,-75.99514
+University of Dhaka,Drawing and Painting,Senior (Undergrad),Male,> 25,Yes,No,< 3.00,No,No,Yes,Sometimes,No,Often,No,No,> 3 Hours,0,3,2,2,1,1,0,1,5,5,2,7,6,7,4,4,0,0.35714285714285715,35.522125
+Chittagong BGMEA Institute of Fashion & Technology ,B.sc ,Senior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,No,Yes,Sometimes,No,Rarely,Yes,Maybe,1-3 Hours,2,3,3,3,2,3,3,4,4,6,6,5,6,6,3,3,2,0.7142857142857143,54.016876
+East Delta University ,CSE,Sophomore (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Rarely,No,No,> 3 Hours,2,1,1,3,3,3,3,4,6,5,7,7,7,7,7,7,7,0.5,51.11953
+SEC,EEE,Senior (Undergrad),Male,21-25,No,Yes,> 3.50,No,No,No,Sometimes,Yes,Never,Yes,No,> 3 Hours,1,0,3,2,1,1,0,4,0,5,3,4,5,6,4,5,3,0.35714285714285715,35.4218
+Bangladesh University of Engineering and Technology,MSc in Physics,Graduate student,Male,21-25,No,No,3.01-3.50,No,Yes,No,Never occurs,Yes,Never,Yes,Yes,> 3 Hours,1,2,1,2,1,2,0,4,1,4,2,7,5,6,4,4,1,0.35714285714285715,119.698654
+East Delta University ,CSE,Senior (Undergrad),Female,21-25,Yes,No,> 3.50,No,No,No,Never occurs,Yes,Often,Yes,No,> 3 Hours,3,2,3,3,3,2,1,7,2,6,7,4,4,4,2,1,4,0.9285714285714286,89.390625
+East Delta University ,CSE ,Graduate student,Female,> 25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Rarely,Yes,Yes,1-3 Hours,2,1,1,3,0,1,3,6,5,7,5,7,5,1,1,7,2,0.35714285714285715,29.252901
+Institue of Photography,Visual Art,Sophomore (Undergrad),Male,21-25,Yes,Yes,3.01-3.50,No,No,No,Never occurs,Yes,Rarely,No,No,1-3 Hours,1,0,1,0,0,0,0,2,2,1,2,3,2,5,2,3,2,0.42857142857142855,40.70145
+East Delta University ,CSE,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Rarely,Yes,No,> 3 Hours,1,0,3,3,1,3,2,6,2,5,4,7,3,3,5,4,4,0.5,47.926342
+Edu,Cse,Senior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Never,No,No,1-3 Hours,3,3,3,3,3,3,3,6,4,7,7,7,7,7,4,7,4,0.5,49.827793
+"Institute of Business Administration, University of Dhaka",BBA,Junior (Undergrad),Male,21-25,Yes,Yes,> 3.50,Yes,No,No,Never occurs,Yes,Never,Yes,No,> 3 Hours,1,2,2,1,1,1,0,4,1,5,1,6,4,6,5,5,2,0.21428571428571427,21.344646
+University of Dhaka,B.A Honors ,Sophomore (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,Yes,No,Never occurs,No,Rarely,No,Maybe,> 3 Hours,1,1,3,1,1,2,3,2,1,7,7,4,7,6,5,4,3,0.7142857142857143,71.3252
+Chittagong Independent University   ,English language and Literature   ,Senior (Undergrad),Male,> 25,Yes,No,< 3.00,No,No,No,Never occurs,No,Never,Yes,No,> 3 Hours,0,0,0,0,0,0,1,6,1,7,5,6,1,5,1,6,5,0.42857142857142855,42.454697
+IUBAT-International University of Business Agriculture and Technology ,BBA,Senior (Undergrad),Female,21-25,Yes,Yes,> 3.50,No,Yes,No,Sometimes,No,Often,Yes,No,1-3 Hours,1,0,0,0,0,0,1,4,2,3,3,1,4,3,2,5,1,0.35714285714285715,14.244819
+University of Science & Technology Chittagong ,ELL,Graduate student,Male,> 25,Yes,Yes,> 3.50,No,No,Yes,Sometimes,No,Never,No,No,> 3 Hours,3,2,3,2,1,3,1,7,1,4,2,6,7,7,1,7,1,0.14285714285714285,-90.72463
+Daffodil International University ,CSE,Senior (Undergrad),Male,21-25,No,No,3.01-3.50,No,No,Yes,Never occurs,No,Never,Yes,No,> 3 Hours,3,3,3,3,3,3,3,5,4,3,6,6,1,6,4,3,6,0.7142857142857143,27.770699
+BRACU,CSE,Graduate student,Female,21-25,Yes,Yes,> 3.50,No,No,No,Sometimes,No,Never,No,Maybe,> 3 Hours,2,1,3,2,3,2,2,4,2,6,3,7,3,6,2,4,3,0.42857142857142855,42.66156
+East Delta University ,B.Sc. in CSE,Senior (Undergrad),Male,21-25,Yes,No,> 3.50,No,No,No,Sometimes,No,Rarely,Yes,Yes,1-3 Hours,2,3,2,3,3,2,2,4,3,5,4,5,5,6,2,4,4,0.5,49.78108
+abu dharr ghifari college,BBA honour's at managment,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Rarely,Yes,No,1-3 Hours,2,0,1,3,3,3,3,1,1,3,6,4,7,6,6,6,1,0.5,49.312325
+Chittagong Independent University ,LLM(HR),Graduate student,Female,21-25,Yes,Yes,> 3.50,No,Yes,No,Sometimes,Yes,Rarely,Yes,Yes,> 3 Hours,1,0,1,1,1,2,0,4,1,4,3,3,4,4,1,7,1,0.21428571428571427,21.28041
+Chittagong College,Chemistty,Graduate student,Male,> 25,Yes,Yes,< 3.00,No,Yes,No,Sometimes,Yes,Never,Yes,Yes,> 3 Hours,1,0,0,1,1,1,0,5,1,7,1,1,7,1,1,7,7,0.07142857142857142,-4.9012675
+Dhaka University,Finance,Graduate student,Male,> 25,Yes,No,> 3.50,No,Yes,No,Sometimes,Yes,Rarely,Yes,No,> 3 Hours,2,1,3,2,1,3,1,6,4,7,2,7,6,6,4,6,1,0.21428571428571427,21.354918
+AIUB,CSE,Senior (Undergrad),Male,21-25,No,Yes,> 3.50,No,No,No,Sometimes,No,Rarely,Yes,No,1-3 Hours,2,2,2,2,2,2,2,5,5,5,5,5,5,5,5,5,5,0.5,7.282326
+Not studying currently,Completed BSc,Graduate student,Female,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Rarely,Yes,Yes,> 3 Hours,2,3,3,3,3,3,1,4,6,3,7,6,3,6,7,1,2,0.9285714285714286,92.70818
+IIUC,BBA,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,Yes,Yes,Yes,Sometimes,No,Rarely,Yes,Yes,> 3 Hours,1,1,1,2,1,1,1,7,4,5,2,7,1,7,6,7,1,0.14285714285714285,51.97892
+Eastern University,English Language and Literature,Graduate student,Male,> 25,Yes,No,< 3.00,Yes,No,No,Most of the time,Yes,Most of the time,Yes,No,> 3 Hours,1,2,2,2,2,2,2,4,5,6,5,7,3,6,6,3,2,0.6428571428571429,64.08554
+DU,MS (geography & environment) ,Graduate student,Male,> 25,No,Yes,> 3.50,No,No,No,Never occurs,Yes,Never,No,No,> 3 Hours,1,0,0,0,0,0,0,6,1,6,1,6,5,5,2,6,2,0.14285714285714285,13.995714
+East west medical college,Mbbs,Graduate student,Female,21-25,Yes,No,3.01-3.50,No,Yes,No,Sometimes,Yes,Rarely,No,Yes,> 3 Hours,1,1,1,2,1,1,1,1,3,5,1,6,3,3,3,3,6,0.35714285714285715,35.541077
+"Govt. B.L. University College, Khulna",BBA,Sophomore (Undergrad),Male,21-25,Yes,Yes,3.01-3.50,No,No,No,Never occurs,No,Never,No,No,1-3 Hours,0,0,2,0,0,2,0,6,1,7,1,7,7,7,1,7,2,0.07142857142857142,15.113378
+"International Islamic University, Chittagong",CSE,Graduate student,Male,> 25,Yes,No,3.01-3.50,No,No,Yes,Sometimes,Yes,Rarely,Yes,No,< 1 Hours,1,2,1,0,1,1,3,6,5,1,5,3,5,6,1,2,1,0.7142857142857143,71.30201
+BUET,Civil,Graduate student,Male,> 25,No,No,< 3.00,No,Yes,No,Most of the time,Yes,Rarely,Yes,No,1-3 Hours,1,1,2,3,1,2,1,3,2,6,1,6,7,7,7,7,4,0.07142857142857142,6.8953104
+BSMRSTU,Statistics ,Graduate student,Male,> 25,No,No,< 3.00,Yes,Yes,No,Sometimes,Yes,Never,Yes,No,> 3 Hours,1,1,1,2,1,2,0,4,2,4,5,7,4,7,6,3,2,0.6428571428571429,62.01317
+University of Dhaka ,Geography& environment ,Graduate student,Female,21-25,Yes,No,> 3.50,No,No,No,Never occurs,Yes,Rarely,Yes,No,1-3 Hours,2,1,0,0,0,1,1,6,2,6,2,2,1,6,1,6,1,0.21428571428571427,33.68772
+BUP,IR,Graduate student,Male,21-25,No,No,3.01-3.50,Yes,Yes,No,Sometimes,Yes,Often,Yes,No,> 3 Hours,2,3,3,3,3,3,3,5,5,4,4,7,5,4,5,2,1,0.6428571428571429,47.912754
+Netrokona Govt clg,Management ,Freshman (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Never occurs,No,Rarely,No,No,> 3 Hours,1,0,0,1,0,2,0,1,1,7,3,7,2,5,6,7,1,0.21428571428571427,21.34847
+"Govt.city college,chittagong",Honours ,Freshman (Undergrad),Male,21-25,Yes,Yes,< 3.00,No,No,Yes,Sometimes,Yes,Never,No,No,1-3 Hours,1,2,1,1,0,1,1,1,1,3,1,3,2,2,2,7,4,0.07142857142857142,6.9122076
+Carmichael College Rangpur ,Philosophy ,Junior (Undergrad),Female,21-25,Yes,No,< 3.00,No,Yes,No,Sometimes,Yes,Most of the time,Yes,Yes,1-3 Hours,0,3,3,3,3,3,3,4,2,5,4,5,6,7,4,3,4,0.5714285714285714,-33.71509
+University of Dhaka,Honors,Graduate student,Male,21-25,Yes,No,> 3.50,No,No,No,Sometimes,Yes,Often,Yes,Yes,> 3 Hours,2,2,2,2,1,2,3,1,3,2,6,4,7,6,4,2,6,0.7857142857142857,58.080036
+Comilla University ,Statistics ,Senior (Undergrad),Female,21-25,No,No,3.01-3.50,No,No,No,Sometimes,No,Rarely,Yes,Yes,> 3 Hours,1,2,3,3,2,2,3,4,1,5,5,4,5,5,2,5,1,0.5,49.165333
+University of Chittagong ,BSc in Zoology,Senior (Undergrad),Male,21-25,No,No,3.01-3.50,No,No,No,Never occurs,Yes,Never,Yes,No,1-3 Hours,3,3,2,3,3,2,1,5,1,5,7,6,7,6,1,1,1,0.9285714285714286,50.54196
+Ahsanullah University of Science & Technology ,Electrical & Electronic Engineering ,Graduate student,Male,21-25,No,Yes,3.01-3.50,No,No,No,Sometimes,No,Rarely,No,No,> 3 Hours,1,0,1,0,1,3,0,5,1,7,2,6,6,7,4,6,4,0.21428571428571427,39.828526
+East Delta University ,CSE,Senior (Undergrad),Female,> 25,No,No,3.01-3.50,No,Yes,No,Sometimes,Yes,Never,Yes,No,1-3 Hours,1,2,3,3,3,3,0,4,5,7,3,7,6,6,7,7,5,0.21428571428571427,49.419514
+East Delta University ,Computer science and engineering,Senior (Undergrad),Female,21-25,Yes,No,> 3.50,No,No,No,Sometimes,Yes,Never,Yes,Yes,> 3 Hours,3,3,3,3,3,2,3,5,5,6,6,7,7,7,5,4,5,0.6428571428571429,68.8338
+Chittagong College ,Economics,Graduate student,Male,> 25,No,No,< 3.00,No,No,Yes,Sometimes,Yes,Often,Yes,No,> 3 Hours,2,3,3,3,2,3,3,5,4,4,7,6,7,5,5,7,7,0.5,49.848278
+University Of Chittagong ,Law,Graduate student,Male,21-25,No,No,3.01-3.50,No,Yes,No,Never occurs,No,Never,No,No,> 3 Hours,0,1,3,1,3,1,3,4,1,5,5,5,4,6,3,3,5,0.6428571428571429,64.17494
+",Chittagong University",B.Sc(Honour's),Graduate student,Female,21-25,Yes,Yes,> 3.50,No,No,No,Sometimes,No,Never,Yes,Yes,1-3 Hours,0,3,0,2,3,3,2,7,2,7,2,4,1,6,1,4,4,0.35714285714285715,34.85282
+Dhaka University ,BBA,Graduate student,Male,21-25,Yes,Yes,< 3.00,No,No,No,Never occurs,Yes,Never,Yes,Yes,> 3 Hours,2,2,2,2,2,2,2,5,5,5,5,5,5,5,5,5,5,0.5,49.85442
+Edu,Cse,Senior (Undergrad),Male,21-25,Yes,No,< 3.00,Yes,Yes,No,Sometimes,Yes,Often,Yes,Yes,1-3 Hours,3,0,1,3,3,3,2,4,4,5,6,5,5,7,5,5,3,0.5714285714285714,56.94724
+University of Asia Pacific ,Department of English ,Senior (Undergrad),Female,21-25,No,Yes,3.01-3.50,No,No,No,Sometimes,Yes,Often,Yes,Yes,1-3 Hours,3,3,3,3,3,3,3,7,1,7,1,7,1,5,1,7,1,0.07142857142857142,6.7169733
+East Delta University ,EEE,Senior (Undergrad),Male,> 25,Yes,Yes,3.01-3.50,No,Yes,No,Most of the time,Yes,Often,Yes,No,< 1 Hours,2,1,1,2,2,2,2,5,3,2,3,3,4,4,5,3,3,0.5,49.81002
+East Delta University,BBA,Graduate student,Male,21-25,Yes,Yes,3.01-3.50,No,No,No,Sometimes,No,Never,No,Yes,1-3 Hours,1,1,1,1,2,2,2,6,3,5,4,6,5,5,5,5,4,0.42857142857142855,49.83993
+Mainamoti Medical.college,MBBS,Graduate student,Male,> 25,No,Yes,> 3.50,No,Yes,No,Never occurs,Yes,Often,Yes,No,1-3 Hours,1,1,2,1,1,3,3,7,1,7,5,6,7,7,4,7,1,0.35714285714285715,35.626186
+East Delta University ,electrical &electronics Engineering ,Senior (Undergrad),Male,> 25,Yes,Yes,> 3.50,No,No,No,Sometimes,No,Never,Yes,Yes,> 3 Hours,1,1,2,1,1,1,2,4,1,3,3,3,3,3,3,4,5,0.42857142857142855,42.524525
+BUET,CSE,Senior (Undergrad),Male,21-25,No,No,< 3.00,Yes,Yes,No,Sometimes,No,Rarely,Yes,Yes,1-3 Hours,0,3,2,2,1,2,1,6,6,4,2,4,4,6,3,2,1,0.5,49.619465
+Buet,Cse,Senior (Undergrad),Female,21-25,No,Yes,3.01-3.50,No,No,No,Never occurs,No,Never,No,Yes,< 1 Hours,2,3,3,0,3,3,3,6,5,6,5,6,4,4,6,3,6,0.6428571428571429,64.199005
+Cuet,Civil Engineering ,Senior (Undergrad),Female,21-25,No,Yes,3.01-3.50,No,Yes,Yes,Sometimes,No,Rarely,Yes,Yes,> 3 Hours,3,3,3,3,3,2,3,3,6,7,7,2,4,7,6,1,3,0.9285714285714286,92.51367
+BUET,CSE,Sophomore (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Rarely,Yes,No,> 3 Hours,1,0,1,1,1,2,1,5,3,6,2,6,4,6,2,7,4,0.14285714285714285,14.7305565
+BUET,BSc in Computer Science and Engineering ,Sophomore (Undergrad),Male,21-25,Yes,No,> 3.50,No,No,Yes,Never occurs,No,Rarely,Yes,No,> 3 Hours,2,2,3,3,3,3,1,4,2,4,5,3,7,6,5,6,7,0.42857142857142855,42.516655
+BUET,CSE,Sophomore (Undergrad),Female,21-25,No,No,> 3.50,No,No,No,Sometimes,No,Never,No,Maybe,1-3 Hours,2,2,3,3,3,3,2,1,7,4,6,2,5,4,3,4,7,0.6428571428571429,72.569664
+BUET,CSE ,Senior (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,Yes,No,Never occurs,No,Never,No,No,1-3 Hours,1,1,2,1,2,1,0,2,3,4,3,5,7,6,2,6,6,0.2857142857142857,28.407928
+BUET,BSc Engineering in Computer Science and Engineering ,Senior (Undergrad),Male,21-25,No,No,< 3.00,No,No,Yes,Sometimes,No,Often,Yes,No,> 3 Hours,1,3,2,3,2,2,3,5,6,6,6,6,3,6,3,5,5,0.5714285714285714,56.888348
+BUET,CSE Undergrad,Senior (Undergrad),Male,21-25,Yes,No,> 3.50,No,Yes,No,Sometimes,No,Rarely,No,No,> 3 Hours,2,2,2,2,2,2,2,4,2,5,5,5,6,6,3,2,2,0.7142857142857143,34.267406
+Bangladesh University of Engineering and Technology ,CSE,Junior (Undergrad),Male,21-25,Yes,No,> 3.50,No,No,No,Sometimes,No,Never,Yes,Maybe,< 1 Hours,0,1,2,1,1,1,1,3,2,3,5,4,6,6,3,5,5,0.5,49.76179
+BUET ,CSE ,Graduate student,Male,> 25,No,No,> 3.50,No,No,No,Sometimes,Yes,Rarely,No,No,1-3 Hours,2,2,2,2,2,1,2,2,5,3,7,5,7,5,6,2,6,0.8571428571428571,33.44044
+Bangladesh University of Engineering and Technology ,Computer Science and Engineering,Sophomore (Undergrad),Male,21-25,Yes,No,> 3.50,No,Yes,No,Sometimes,Yes,Rarely,Yes,No,> 3 Hours,1,3,3,3,3,3,2,2,3,4,6,5,4,4,5,2,1,0.7857142857142857,78.37437
+Bangladesh University of Engineering and Technology ,CSE,Senior (Undergrad),Male,21-25,No,No,> 3.50,No,No,No,Never occurs,No,Never,Yes,Maybe,1-3 Hours,1,1,1,1,2,2,2,3,4,3,5,5,5,5,4,3,5,0.6428571428571429,64.256935
+CUET,CSE,Senior (Undergrad),Male,21-25,No,Yes,> 3.50,No,No,No,Sometimes,No,Never,Yes,No,1-3 Hours,2,2,2,2,2,2,2,6,1,4,2,5,1,5,1,6,2,0.21428571428571427,59.29242
+CUET,BSc in Civil Engineering,Senior (Undergrad),Male,21-25,Yes,Yes,3.01-3.50,No,Yes,No,Never occurs,No,Never,No,No,1-3 Hours,0,0,2,1,0,1,3,1,1,7,7,7,7,7,1,7,1,0.5,49.48594
+CUET,Civil Engineering,Senior (Undergrad),Male,21-25,Yes,No,< 3.00,No,Yes,No,Never occurs,No,Never,No,No,1-3 Hours,2,2,1,3,3,2,3,4,5,7,7,6,6,5,6,5,5,0.6428571428571429,64.01801
+Bangladesh university of Engineering and Technology,Computer Science and Engineering,Senior (Undergrad),Male,21-25,No,No,3.01-3.50,No,No,No,Sometimes,No,Never,Yes,No,1-3 Hours,1,0,2,1,2,3,0,2,5,6,5,4,7,2,1,5,2,0.5,49.72427
+East Delta University ,CSE,Senior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,No,No,Sometimes,Yes,Rarely,No,No,1-3 Hours,3,0,1,0,1,2,3,2,2,2,5,3,3,6,5,5,5,0.5,48.936756
+BUET ,Cs,Junior (Undergrad),Female,21-25,No,No,> 3.50,No,No,No,Sometimes,No,Never,Yes,No,> 3 Hours,1,1,2,2,2,2,2,4,1,4,6,5,4,5,5,3,5,0.7142857142857143,5.089978
+DU,Peace and Conflict ,Senior (Undergrad),Female,> 25,No,No,> 3.50,No,No,No,Sometimes,Yes,Often,Yes,Yes,< 1 Hours,2,3,2,2,1,2,2,6,1,1,6,4,5,7,7,7,4,0.42857142857142855,42.770653
+CUETu,Architecture ,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,Yes,No,Sometimes,No,Never,Yes,No,> 3 Hours,2,2,2,2,2,3,3,4,3,5,5,5,5,5,5,4,4,0.5714285714285714,56.814457
+CUET,EEE,Senior (Undergrad),Male,21-25,Yes,No,< 3.00,No,No,No,Sometimes,No,Often,Yes,No,1-3 Hours,3,1,3,1,1,3,3,5,4,7,7,4,6,7,1,1,5,0.9285714285714286,87.92919
+East Delta University ,CSE,Junior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,Yes,Never occurs,No,Rarely,No,No,1-3 Hours,1,1,1,3,2,1,2,5,1,4,4,7,7,7,5,6,5,0.35714285714285715,36.04015
+East delta University ,Bsc in EEE,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Never,Yes,No,1-3 Hours,1,2,3,3,1,3,1,7,4,5,7,7,5,4,4,5,4,0.6428571428571429,-4.43257
+CUET,B.Sc,Senior (Undergrad),Male,21-25,No,No,< 3.00,Yes,No,No,Sometimes,No,Often,Yes,Maybe,1-3 Hours,1,0,1,1,1,1,3,3,2,5,5,1,6,6,1,4,5,0.5714285714285714,57.04885
+Yangzhou University ,Software Engineering ,Junior (Undergrad),Male,21-25,No,Yes,> 3.50,No,No,No,Sometimes,No,Never,Yes,No,> 3 Hours,2,2,1,0,0,0,2,7,2,6,3,7,6,7,2,7,1,0.21428571428571427,-104.540146
+Uttara university ,B.Sc in CSE,Senior (Undergrad),Male,< 20,Yes,No,3.01-3.50,No,Yes,Yes,Sometimes,No,Never,No,No,1-3 Hours,0,1,0,0,0,3,3,1,1,1,1,1,1,1,1,1,2,0.5,32.083992
+Uttara University,BSc In CSE,Senior (Undergrad),Male,> 25,No,No,> 3.50,No,Yes,Yes,Sometimes,Yes,Never,No,No,1-3 Hours,1,3,2,2,1,3,2,3,5,4,6,6,6,5,6,4,1,0.6428571428571429,63.980442
+Uttara University ,Computer Science Engineering,Senior (Undergrad),Female,21-25,Yes,No,> 3.50,No,No,No,Sometimes,No,Rarely,No,No,> 3 Hours,0,3,3,3,3,3,3,6,6,6,6,6,6,6,6,6,6,0.5,156.8822
+Chittagong University of Engineering & Technology,mechanical engineering,Senior (Undergrad),Female,21-25,No,No,3.01-3.50,No,No,No,Sometimes,No,Never,Yes,Maybe,1-3 Hours,1,3,2,1,1,3,3,2,1,6,7,1,7,7,1,6,2,0.5714285714285714,57.040318
+Islamia University College ,BBA (Professional),Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Often,Yes,No,> 3 Hours,1,1,1,1,1,2,1,3,4,6,4,5,5,5,3,3,3,0.5714285714285714,57.03991
+Chittagong University of Engineering and Technology ,Mechanical Engineering ,Junior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Rarely,Yes,No,1-3 Hours,1,0,2,1,1,0,0,4,4,5,5,6,7,5,2,4,4,0.5714285714285714,56.9207
+Chittagong University ,MBA,Graduate student,Male,> 25,Yes,No,< 3.00,No,Yes,No,Most of the time,Yes,Never,No,No,1-3 Hours,3,2,1,2,2,2,2,5,3,7,4,5,4,5,3,3,4,0.5714285714285714,-50.850548
+Southern University Bangladesh ,Civil,Junior (Undergrad),Male,< 20,Yes,Yes,3.01-3.50,No,No,Yes,Sometimes,Yes,Rarely,Yes,No,1-3 Hours,1,0,1,3,2,1,3,6,1,2,6,6,4,3,1,6,7,0.5,48.822193
+CUET,ME,Sophomore (Undergrad),Male,21-25,No,No,3.01-3.50,No,Yes,No,Sometimes,No,Never,Yes,Maybe,1-3 Hours,0,3,3,3,2,3,3,5,4,3,7,4,6,4,6,3,5,0.7857142857142857,78.4187
+Chittagong university of engineering and technology ,Architecture,Freshman (Undergrad),Female,21-25,No,No,< 3.00,No,Yes,No,Sometimes,Yes,Most of the time,Yes,Yes,> 3 Hours,3,3,3,3,3,3,3,5,5,5,7,4,3,6,7,1,4,0.9285714285714286,144.54077
+Chittagong University of engineering and technology ,Electrical and electronic engineering ,Freshman (Undergrad),Female,< 20,Yes,No,< 3.00,No,No,No,Most of the time,No,Rarely,Yes,Maybe,> 3 Hours,3,3,3,2,2,3,3,6,6,4,7,6,7,6,7,4,1,0.7142857142857143,71.41772
+Chittagong university of engineering and technology ,Electrical and Electronics Engineering ,Sophomore (Undergrad),Female,21-25,No,Yes,3.01-3.50,No,No,No,Never occurs,No,Never,No,Maybe,< 1 Hours,1,2,2,2,2,1,3,1,1,2,7,7,7,7,7,6,3,0.5714285714285714,56.921936
+Chittagong University ,LLB,Junior (Undergrad),Female,21-25,No,Yes,3.01-3.50,No,Yes,No,Never occurs,Yes,Rarely,Yes,Yes,> 3 Hours,2,0,0,2,0,1,3,2,2,4,2,4,2,5,4,2,5,0.5,24.021002
+City University,B.sc in Mechanical Engineering,Graduate student,Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Rarely,No,No,> 3 Hours,2,3,2,3,2,3,3,7,5,5,6,6,5,6,2,5,2,0.5714285714285714,32.874805
+East Delta University ,Bsc Engineering in EEE,Senior (Undergrad),Male,21-25,No,Yes,< 3.00,No,No,No,Never occurs,Yes,Rarely,No,No,> 3 Hours,0,0,1,1,2,2,1,7,2,4,4,6,3,5,3,6,2,0.35714285714285715,-107.61157
+CUET ,Mechatronics & Industrial Engineering ,Sophomore (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,No,Yes,Most of the time,Yes,Rarely,Yes,Yes,1-3 Hours,3,3,3,2,3,3,3,7,6,7,7,7,1,6,3,6,1,0.5714285714285714,56.79457
+Bangladesh University of Engineering and Technology ,Computer Science and Engineering ,Sophomore (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Never,No,No,1-3 Hours,1,1,2,3,2,2,1,2,4,3,6,2,6,4,5,2,5,0.7857142857142857,78.507545
+Chittagong University of Engineering and Technology,Department of Mechatronics and Industrial Engineering ,Freshman (Undergrad),Male,21-25,No,No,3.01-3.50,No,No,No,Most of the time,Yes,Never,Yes,No,1-3 Hours,1,3,3,3,3,3,0,1,5,3,7,7,6,4,5,7,7,0.5,49.802113
+Chittagong University Of Engineering And Technology ,EEE,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Often,No,No,1-3 Hours,2,1,1,3,3,3,2,5,3,5,4,4,5,3,5,3,5,0.5714285714285714,56.739254
+East Delta University ,BSc in EEE,Graduate student,Female,21-25,Yes,Yes,3.01-3.50,No,No,No,Sometimes,Yes,Never,Yes,No,1-3 Hours,3,0,3,1,1,3,0,5,5,4,6,5,5,5,2,5,2,0.5714285714285714,74.535736
+East Delta University ,EEE,Freshman (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Rarely,Yes,No,1-3 Hours,2,0,0,0,0,0,0,7,2,1,1,5,5,6,7,4,3,0.2857142857142857,52.89617
+Chittagong University of Engineering and technology ,Architecture ,Freshman (Undergrad),Female,21-25,No,Yes,3.01-3.50,No,No,No,Never occurs,No,Never,Yes,Yes,> 3 Hours,2,1,0,0,1,3,0,7,4,5,5,1,7,7,5,6,1,0.42857142857142855,26.21895
+Cuet,Urp,Sophomore (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Often,No,No,1-3 Hours,1,1,1,1,1,1,0,3,4,5,3,3,6,7,5,5,3,0.35714285714285715,35.515396
+Bepza public school and College ,Accounts ,Senior (Undergrad),Male,< 20,Yes,Yes,> 3.50,No,No,No,Most of the time,No,Never,No,No,> 3 Hours,2,1,1,1,2,3,2,5,3,5,3,6,5,5,4,6,5,0.2857142857142857,-147.26076
+"Govt. City clg,  Chittagong ",Islamic history,Senior (Undergrad),Male,21-25,Yes,Yes,< 3.00,No,No,No,Sometimes,Yes,Often,Yes,No,1-3 Hours,0,1,0,1,1,2,1,3,2,5,3,5,4,5,3,4,5,0.42857142857142855,42.464657
+East Delta University ,BA in English ,Junior (Undergrad),Male,< 20,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Never,No,No,> 3 Hours,3,3,2,3,3,3,2,7,1,7,7,7,7,7,3,7,1,0.5,49.914707
+Chattogram Bandar College ,Acquire knowledge ,Junior (Undergrad),Male,< 20,Yes,Yes,3.01-3.50,No,No,No,Sometimes,Yes,Often,No,No,> 3 Hours,0,3,3,3,1,3,3,5,1,7,5,7,7,6,1,7,1,0.35714285714285715,35.613644
+Chittagong University of Engineering and Technology ,Department of civil Engineering ,Freshman (Undergrad),Male,21-25,Yes,No,< 3.00,No,No,No,Sometimes,No,Rarely,Yes,Yes,> 3 Hours,3,1,2,3,3,3,2,6,2,7,7,2,7,4,7,1,1,0.9285714285714286,20.543188
+Chittagong university of engineering and technology ,Civil engineering ,Senior (Undergrad),Female,21-25,No,No,3.01-3.50,No,No,No,Never occurs,No,Never,No,Yes,1-3 Hours,2,0,3,3,3,0,3,7,1,5,4,5,1,4,5,6,4,0.35714285714285715,35.340424
+"Govt. College  of Commerce, ctg",Bbs,Freshman (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,Yes,Yes,Sometimes,Yes,Most of the time,No,No,1-3 Hours,2,3,0,2,1,3,0,3,4,2,4,5,3,5,2,4,1,0.5,-126.495026
+Chittagong University of Engineering and Technology ,Civil Engineering ,Sophomore (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Never,No,No,> 3 Hours,2,2,2,1,2,0,0,2,2,4,6,4,7,4,2,5,7,0.5714285714285714,56.992638
+IIUC,EEE,Graduate student,Male,21-25,Yes,Yes,> 3.50,No,No,No,Sometimes,No,Rarely,No,No,> 3 Hours,2,1,1,1,1,1,0,1,1,6,6,6,6,6,6,6,1,0.5,49.84491
+East Delta University ,CSE,Senior (Undergrad),Female,21-25,Yes,Yes,> 3.50,No,No,No,Sometimes,No,Never,Yes,Yes,> 3 Hours,2,1,3,3,2,3,3,4,4,4,3,4,3,3,4,4,3,0.42857142857142855,45.27877
+University of Dhaka,BSc in Physics ,Senior (Undergrad),Male,21-25,Yes,No,< 3.00,No,Yes,No,Never occurs,No,Never,Yes,No,> 3 Hours,0,0,0,0,0,1,1,5,2,1,1,7,3,4,5,6,1,0.14285714285714285,6.3002214
+Dhaka University ,Bachelor ,Senior (Undergrad),Male,> 25,No,No,< 3.00,No,No,No,Never occurs,No,Never,No,No,> 3 Hours,0,0,3,3,0,3,0,4,1,2,5,7,7,6,7,3,7,0.6428571428571429,2.5971918
+University of Dhaka ,Physics ,Senior (Undergrad),Prefer not to say,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Often,Yes,Yes,> 3 Hours,2,1,3,2,2,3,2,6,2,4,4,7,2,5,2,5,2,0.42857142857142855,42.736645
+University of Dhaka,BSC in Honours,Junior (Undergrad),Male,21-25,Yes,No,< 3.00,No,No,No,Sometimes,No,Never,No,No,> 3 Hours,2,2,2,2,2,3,2,5,3,5,6,5,4,6,2,2,4,0.7857142857142857,78.531395
+Dhaka University,physics,Sophomore (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,No,No,Sometimes,Yes,Rarely,Yes,No,1-3 Hours,1,1,1,1,0,3,0,4,2,7,1,5,6,5,2,6,1,0.14285714285714285,14.138886
+University  of  Dhaka ,BSc in Physics,Sophomore (Undergrad),Male,21-25,Yes,No,< 3.00,No,No,No,Never occurs,No,Never,No,No,1-3 Hours,1,1,0,0,0,0,0,1,1,1,1,4,6,7,7,7,7,0.07142857142857142,6.883044
+Dhaka university ,Physics ,Sophomore (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Never,Yes,No,< 1 Hours,0,0,0,1,0,0,0,1,2,2,1,7,7,5,7,7,2,0.07142857142857142,7.1081743
+University of Dhaka ,BS Honours ,Senior (Undergrad),Male,> 25,No,No,< 3.00,No,No,No,Sometimes,No,Rarely,Yes,No,> 3 Hours,1,2,1,3,3,3,3,4,1,4,4,4,4,4,4,4,4,0.5,33.784084
+University of Dhaka ,Honours ,Senior (Undergrad),Male,21-25,No,No,< 3.00,No,No,No,Never occurs,No,Never,No,No,> 3 Hours,1,1,0,1,1,2,0,2,2,6,2,5,7,5,5,6,2,0.21428571428571427,21.355898
+University of Dhaka ,Physics ,Junior (Undergrad),Female,21-25,Yes,No,> 3.50,No,No,No,Never occurs,No,Rarely,Yes,Maybe,1-3 Hours,2,1,2,2,2,3,2,3,1,5,5,5,4,5,3,4,4,0.5714285714285714,56.73667
+University of Dhaka ,Bsc. Hons. in Physics ,Senior (Undergrad),Male,21-25,Yes,Yes,3.01-3.50,No,No,No,Never occurs,No,Often,Yes,No,< 1 Hours,2,3,2,0,2,3,0,1,2,6,7,5,7,6,7,1,6,0.9285714285714286,92.73066
+University of Dhaka,Physics ,Senior (Undergrad),Male,21-25,Yes,No,< 3.00,Yes,Yes,No,Never occurs,Yes,Rarely,Yes,Yes,> 3 Hours,1,2,1,1,1,0,2,4,2,6,6,5,1,6,3,2,2,0.7857142857142857,78.394005
+CUET,Mechanical Engineering,Senior (Undergrad),Male,21-25,Yes,Yes,3.01-3.50,No,No,No,Sometimes,No,Never,Yes,Yes,1-3 Hours,1,2,2,1,1,2,0,3,2,5,2,4,6,5,6,4,5,0.35714285714285715,37.55359
+CUET,Engineering,Sophomore (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,No,No,Never occurs,No,Rarely,Yes,Yes,> 3 Hours,0,0,0,2,1,3,3,4,3,7,7,5,7,7,1,7,3,0.5,49.82936
+University of Dhaka,Physics,Senior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Never,No,Yes,> 3 Hours,0,0,0,0,0,0,0,6,2,6,1,5,2,7,5,7,3,0.07142857142857142,6.887228
+East Delta University ,B.Sc in EEE,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Rarely,Yes,No,1-3 Hours,0,3,2,2,2,3,3,5,1,5,6,7,6,7,1,5,3,0.5714285714285714,56.637974
+Edu,Mba,Graduate student,Male,> 25,Yes,Yes,3.01-3.50,No,No,No,Never occurs,No,Never,No,No,> 3 Hours,0,0,0,1,0,1,0,4,2,4,1,7,5,7,3,7,2,0.07142857142857142,21.86209
+University of dhaka,Bsc in physics,Senior (Undergrad),Male,21-25,No,No,< 3.00,No,Yes,No,Never occurs,No,Never,Yes,Yes,> 3 Hours,1,0,1,0,0,2,2,4,2,4,5,3,4,6,2,4,3,0.5714285714285714,2.842695
+University of Dhaka ,BS honours in physics ,Junior (Undergrad),Female,21-25,No,No,< 3.00,No,Yes,No,Sometimes,Yes,Rarely,No,Yes,> 3 Hours,1,2,2,1,2,3,3,1,5,6,6,1,7,7,2,1,7,0.8571428571428571,85.289505
+Dhaka University ,Physics ,Senior (Undergrad),Male,21-25,Yes,No,> 3.50,Yes,Yes,No,Sometimes,No,Never,No,No,1-3 Hours,3,2,2,3,3,1,1,2,3,4,5,4,5,6,4,2,6,0.7142857142857143,71.47139
+University of Dhaka,Physics,Sophomore (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,No,No,Never occurs,No,Never,No,No,1-3 Hours,0,0,0,0,0,1,1,6,1,6,1,6,5,7,1,7,4,0.07142857142857142,7.0314193
+University of Dhaka,BSc. in Physics,Sophomore (Undergrad),Male,21-25,No,No,3.01-3.50,Yes,No,Yes,Sometimes,No,Never,Yes,No,> 3 Hours,1,2,2,1,1,1,3,2,2,3,5,3,7,7,7,2,5,0.7142857142857143,71.41859
+University of Dhaka,Physics ,Sophomore (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Never occurs,Yes,Rarely,No,No,1-3 Hours,1,1,1,1,0,2,2,1,1,2,3,2,2,1,6,2,2,0.5714285714285714,57.330334
+DHAKA UNIVERSITY ,Honours ,Sophomore (Undergrad),Male,21-25,No,Yes,> 3.50,No,No,No,Sometimes,Yes,Never,Yes,No,1-3 Hours,1,0,1,2,1,2,1,6,2,5,4,5,1,6,5,5,2,0.42857142857142855,1.680634
+University of Dhaka ,B.Sc,Sophomore (Undergrad),Female,21-25,No,No,3.01-3.50,No,Yes,No,Never occurs,Yes,Rarely,Yes,Yes,> 3 Hours,1,2,2,1,1,2,3,4,5,2,7,6,3,6,4,2,7,0.8571428571428571,85.567406
+University of Dhaka ,Physics ,Sophomore (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Rarely,Yes,No,1-3 Hours,2,2,3,3,3,3,3,4,2,4,5,4,5,4,6,4,5,0.5714285714285714,57.489723
+Dhaka University ,Physics ,Sophomore (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,No,No,Sometimes,No,Rarely,Yes,No,> 3 Hours,2,2,1,2,1,3,1,6,5,5,4,5,2,5,5,6,3,0.35714285714285715,62.874092
+Khalida Akther Asha,physics,Junior (Undergrad),Female,21-25,No,Yes,< 3.00,No,No,No,Sometimes,Yes,Rarely,No,No,1-3 Hours,2,2,3,3,3,3,3,1,3,1,1,4,5,2,5,2,4,0.42857142857142855,42.746235
+Dhaka University ,Physics ,Sophomore (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Never occurs,No,Rarely,Yes,No,> 3 Hours,1,2,2,3,3,2,3,2,6,4,7,6,5,5,2,6,7,0.5714285714285714,57.226826
+Port City Internation University,B.A in English,Graduate student,Male,21-25,Yes,Yes,< 3.00,No,No,No,Never occurs,No,Rarely,No,No,< 1 Hours,0,0,0,0,0,3,0,5,1,7,1,5,2,2,1,1,1,0.5,49.90101
+University of Dhaka ,Physics ,Junior (Undergrad),Male,21-25,Yes,No,< 3.00,No,No,No,Sometimes,Yes,Rarely,Yes,Maybe,1-3 Hours,2,1,3,3,2,1,1,4,6,2,5,5,2,6,6,5,5,0.5,67.24944
+Lalmatia Mohila College ,BSS honours ,Graduate student,Female,> 25,Yes,No,< 3.00,No,No,No,Never occurs,No,Never,No,Yes,1-3 Hours,0,0,0,0,0,0,0,7,4,7,1,4,1,1,1,4,1,0.2857142857142857,28.417677
+C.U.E.T.,C.S.E.,Graduate student,Male,21-25,Yes,No,< 3.00,No,No,No,Sometimes,No,Rarely,No,Yes,1-3 Hours,2,1,2,2,2,2,2,4,5,6,6,6,6,6,2,6,2,0.5,49.301426
+University of Dhaka ,Physics ,Sophomore (Undergrad),Male,21-25,No,No,< 3.00,No,No,No,Sometimes,Yes,Most of the time,Yes,No,1-3 Hours,1,1,2,2,2,3,2,3,2,4,5,4,5,6,2,4,6,0.5714285714285714,56.726475
+DU,LLB,Senior (Undergrad),Male,21-25,Yes,No,< 3.00,No,Yes,No,Sometimes,Yes,Rarely,Yes,Yes,> 3 Hours,2,1,2,2,2,2,2,7,4,7,1,7,7,7,1,7,1,0.07142857142857142,-95.635635
+University of Dhaka ,LLB (Hons.),Senior (Undergrad),Male,21-25,No,No,< 3.00,No,No,Yes,Sometimes,Yes,Rarely,Yes,No,1-3 Hours,1,2,1,1,1,2,1,6,3,6,2,5,3,6,1,5,3,0.2857142857142857,28.511127
+Dhaka University ,Law,Senior (Undergrad),Female,21-25,No,No,< 3.00,No,Yes,Yes,Sometimes,Yes,Most of the time,Yes,Yes,> 3 Hours,3,3,3,3,3,2,3,2,6,5,7,7,4,7,3,1,4,0.9285714285714286,67.98678
+University of Dhaka,Physics ,Junior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Rarely,Yes,No,< 1 Hours,2,3,3,3,3,3,0,2,1,4,3,1,6,4,6,3,7,0.5,70.03923
+Dhaka University ,PHYSICS ,Graduate student,Female,21-25,No,No,3.01-3.50,No,No,No,Sometimes,Yes,Often,No,No,< 1 Hours,1,2,2,1,2,1,1,4,3,3,4,4,4,5,4,6,4,0.35714285714285715,69.3418
+BUET,Chemical engineering ,Junior (Undergrad),Male,21-25,No,No,3.01-3.50,No,Yes,No,Never occurs,No,Most of the time,Yes,No,1-3 Hours,3,1,3,2,3,3,3,3,1,1,2,7,6,7,5,6,3,0.21428571428571427,23.535355
+University of Dhaka,LLB honours ,Senior (Undergrad),Female,21-25,No,Yes,3.01-3.50,No,Yes,No,Sometimes,No,Rarely,Yes,Yes,1-3 Hours,3,2,2,1,3,1,2,3,6,6,6,3,3,4,1,2,6,0.7857142857142857,6.2324963
+Dhaka University ,Depterment of Physics ,Sophomore (Undergrad),Male,21-25,Yes,No,< 3.00,No,No,No,Sometimes,No,Never,No,No,< 1 Hours,0,1,1,1,1,2,2,4,5,3,5,2,6,5,5,2,5,0.7142857142857143,71.23041
+BUET,CSE,Sophomore (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Rarely,No,No,1-3 Hours,1,2,2,2,2,3,3,2,5,6,5,5,5,5,5,4,6,0.5714285714285714,56.856823
+University of Dhaka ,LLB(honors),Senior (Undergrad),Male,21-25,No,Yes,3.01-3.50,No,No,No,Sometimes,Yes,Often,No,Yes,> 3 Hours,2,1,1,1,1,2,1,1,1,5,5,4,6,5,6,2,4,0.7142857142857143,71.293915
+BUET,CSE ,Junior (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,No,No,Sometimes,Yes,Never,Yes,No,< 1 Hours,1,0,3,3,1,3,1,2,6,5,2,2,4,2,5,3,4,0.42857142857142855,42.9766
+Dhaka University,B.S Honors in Physics,Junior (Undergrad),Female,21-25,No,No,3.01-3.50,No,Yes,No,Sometimes,Yes,Rarely,Yes,Maybe,> 3 Hours,2,3,3,3,3,3,3,1,4,1,7,4,6,7,7,1,7,0.9285714285714286,92.564735
+Dhaka University,B.S Honors in Physics,Junior (Undergrad),Female,21-25,No,No,3.01-3.50,No,Yes,No,Sometimes,Yes,Rarely,Yes,Maybe,1-3 Hours,3,3,3,3,3,3,3,1,3,1,7,5,6,6,7,1,6,0.9285714285714286,97.92922
+Rajuk uttara model college ,Science ,Freshman (Undergrad),Female,< 20,Yes,No,> 3.50,No,No,No,Never occurs,Yes,Never,No,No,1-3 Hours,1,1,2,1,0,0,2,5,3,4,3,3,6,5,6,3,6,0.5,49.799953
+University of Dhaka ,Law,Senior (Undergrad),Female,21-25,No,Yes,< 3.00,No,No,No,Never occurs,No,Rarely,No,Yes,> 3 Hours,2,0,3,2,1,0,1,5,1,5,2,3,3,7,4,6,2,0.21428571428571427,21.486088
+CUET,CSE,Senior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,Yes,No,Sometimes,No,Never,No,No,> 3 Hours,2,1,2,2,2,3,3,4,4,6,6,5,6,7,5,4,5,0.6428571428571429,60.90959
+East Delta University ,BBA ,Senior (Undergrad),Male,> 25,Yes,No,< 3.00,No,Yes,No,Sometimes,No,Rarely,Yes,No,> 3 Hours,1,2,3,3,2,3,3,5,4,6,6,5,7,7,4,5,5,0.5714285714285714,97.870346
+Uttara University ,B.sc in CSE,Senior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Never,Yes,No,1-3 Hours,3,1,3,1,3,0,1,1,5,7,7,4,7,7,1,5,4,0.6428571428571429,63.80002
+cuet,cse,Junior (Undergrad),Female,21-25,No,No,3.01-3.50,No,Yes,No,Never occurs,No,Rarely,Yes,Yes,> 3 Hours,2,1,3,3,3,3,3,4,2,6,3,6,4,4,2,6,1,0.2857142857142857,12.529731
+Govt.Hazi Mohammad Mohsin College Chattagram ,B.Sc honours at Department of physics ,Sophomore (Undergrad),Female,< 20,Yes,No,> 3.50,No,No,Yes,Most of the time,No,Rarely,Yes,Yes,> 3 Hours,3,2,3,3,3,2,3,5,5,6,7,6,5,4,5,5,4,0.6428571428571429,63.90687
+Iuc,Finance ,Graduate student,Male,21-25,Yes,No,< 3.00,No,Yes,No,Sometimes,Yes,Never,No,Yes,> 3 Hours,2,0,1,0,1,1,1,3,1,1,1,2,2,1,1,3,1,0.35714285714285715,35.506367
+"Islamic University,Bangladesh ",Bss hons folklore studies,Junior (Undergrad),Male,21-25,No,Yes,3.01-3.50,Yes,Yes,No,Sometimes,No,Never,No,No,> 3 Hours,0,0,3,3,3,0,0,7,3,7,1,4,3,3,7,7,3,0.07142857142857142,6.5933666
+"Islamic University, Kushtia",BBA,Junior (Undergrad),Male,21-25,No,No,3.01-3.50,No,Yes,No,Never occurs,No,Rarely,No,Yes,> 3 Hours,2,2,2,3,3,3,2,2,1,4,4,7,7,3,7,7,7,0.2857142857142857,28.39588
+Islamic University Bangladesh,Folklore studies ,Freshman (Undergrad),Male,21-25,No,Yes,3.01-3.50,No,No,Yes,Sometimes,Yes,Rarely,Yes,No,1-3 Hours,3,0,0,3,0,1,1,4,2,6,6,6,3,5,4,6,5,0.5,49.343525
+Dhaka University ,Physics ,Sophomore (Undergrad),Female,21-25,No,No,< 3.00,No,No,No,Sometimes,Yes,Rarely,Yes,Yes,> 3 Hours,1,3,3,2,2,3,1,3,2,5,6,4,7,4,3,3,3,0.7142857142857143,71.14787
+CUET,ETE,Senior (Undergrad),Male,21-25,Yes,Yes,3.01-3.50,No,No,No,Sometimes,Yes,Rarely,Yes,No,1-3 Hours,0,1,0,1,0,0,2,3,1,3,1,5,1,4,1,7,3,0.07142857142857142,7.049068
+CUET,ETE,Senior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Rarely,Yes,Maybe,1-3 Hours,1,2,3,3,3,3,3,5,2,5,7,5,3,7,1,4,4,0.7142857142857143,47.621468
+Rajuk Uttara Model College ,Ssc candidate ,Senior (Undergrad),Female,< 20,Yes,No,3.01-3.50,No,Yes,No,Never occurs,No,Never,Yes,Yes,> 3 Hours,1,1,1,2,1,1,3,7,3,6,6,7,1,7,6,2,1,0.7857142857142857,78.12951
+Rajuk Uttara Model College ,Science,Senior (Undergrad),Male,< 20,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Never,Yes,No,> 3 Hours,2,0,2,0,2,1,1,3,3,2,5,5,1,5,4,1,5,0.7857142857142857,78.3104
+Leading University ,Islamic studies economic and banking ,Senior (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,No,No,Never occurs,No,Never,Yes,No,> 3 Hours,2,2,2,2,2,2,2,5,2,5,7,2,2,4,2,4,3,0.7142857142857143,39.672157
+CUET,Mechanical Engineering,Freshman (Undergrad),Male,21-25,Yes,No,< 3.00,No,No,Yes,Never occurs,No,Never,Yes,Yes,> 3 Hours,3,3,3,3,3,3,0,4,4,1,6,5,4,4,7,1,3,0.8571428571428571,81.58513
+University of Dhaka ,BBA,Freshman (Undergrad),Male,21-25,No,No,3.01-3.50,No,No,No,Never occurs,Yes,Never,Yes,No,> 3 Hours,1,0,1,1,2,1,2,1,1,3,2,2,1,4,1,5,5,0.2857142857142857,27.982601
+chittagong University of Engineering & Technology,Computer Science & Engineering,Sophomore (Undergrad),Male,21-25,No,Yes,3.01-3.50,No,No,No,Never occurs,No,Never,No,No,< 1 Hours,1,0,0,0,0,1,0,5,1,6,1,5,4,6,1,7,4,0.07142857142857142,6.550623
+Chittagong University of Engineering and Technology ,ETE ,Junior (Undergrad),Female,21-25,No,No,> 3.50,No,No,No,Sometimes,Yes,Never,Yes,No,1-3 Hours,1,0,2,3,1,1,1,5,2,4,3,5,5,5,3,5,4,0.35714285714285715,35.647423
+cuet,Mechanical Engineering ,Junior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,Yes,Sometimes,No,Often,Yes,No,1-3 Hours,1,2,1,2,1,2,2,1,1,1,5,4,6,6,1,4,4,0.5714285714285714,56.91009
+"IBA, Dhaka University",BBA,Freshman (Undergrad),Female,21-25,Yes,No,> 3.50,No,Yes,No,Sometimes,No,Often,Yes,No,1-3 Hours,2,1,1,1,1,1,1,6,3,6,3,6,2,6,2,5,2,0.35714285714285715,35.526703
+Chittagong University of Engineering & Technology,Civil Engineering,Senior (Undergrad),Male,21-25,No,No,< 3.00,No,No,No,Sometimes,No,Never,Yes,No,> 3 Hours,3,3,3,3,3,3,1,4,6,6,6,7,1,1,1,1,1,0.8571428571428571,85.33371
+University of Dhaka,Microbiology,Junior (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,No,No,Never occurs,No,Never,Yes,No,1-3 Hours,1,0,0,1,0,1,1,6,4,5,1,7,5,5,5,5,1,0.21428571428571427,21.085613
+CUET,ME,Senior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,Yes,Sometimes,No,Never,No,Yes,< 1 Hours,2,3,1,1,0,0,3,5,1,4,4,7,2,7,7,4,7,0.5,49.94382
+BUET,Mechanical Engineering,Freshman (Undergrad),Male,< 20,No,Yes,> 3.50,No,No,Yes,Sometimes,No,Often,Yes,No,> 3 Hours,1,1,1,0,0,1,1,4,4,5,5,5,6,6,4,4,4,0.5714285714285714,57.153564
+University of South Asia ,Computer Science and Engineering ,Senior (Undergrad),Female,21-25,Yes,No,> 3.50,No,No,No,Sometimes,Yes,Most of the time,Yes,Yes,< 1 Hours,1,1,1,2,1,2,1,4,2,4,5,4,3,5,4,4,4,0.5714285714285714,57.085014
+University of Dhaka ,B.A.(Hon's) ,Graduate student,Female,< 20,Yes,No,3.01-3.50,No,Yes,No,Never occurs,Yes,Often,Yes,Yes,1-3 Hours,1,2,1,3,2,3,3,4,1,4,7,3,4,4,4,6,4,0.5714285714285714,56.73863
+CUET,B.Sc. in Civil Engineering ,Freshman (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Never occurs,Yes,Rarely,No,Yes,> 3 Hours,3,2,3,3,3,3,3,1,2,2,6,3,6,6,4,3,2,0.7142857142857143,71.30695
+CUET,URP,Senior (Undergrad),Male,21-25,Yes,No,< 3.00,No,No,No,Sometimes,No,Never,No,No,1-3 Hours,0,1,0,0,0,1,0,5,2,4,4,4,3,4,3,6,4,0.35714285714285715,47.624023
+CU,CSE,Sophomore (Undergrad),Female,21-25,No,No,< 3.00,No,No,Yes,Sometimes,Yes,Rarely,Yes,Yes,> 3 Hours,0,0,0,0,1,0,2,7,2,5,7,2,4,4,2,2,2,0.8571428571428571,0.42637047
+University of Dhaka,Computer science and engineering,Junior (Undergrad),Female,21-25,Yes,No,> 3.50,No,No,Yes,Sometimes,Yes,Rarely,Yes,No,> 3 Hours,0,3,0,2,3,0,3,1,2,3,4,5,6,7,6,5,4,0.42857142857142855,42.85666
+University of Dhaka,Computer science and engineering,Junior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,Yes,Yes,Sometimes,Yes,Rarely,Yes,Yes,> 3 Hours,0,1,1,2,3,0,1,2,3,1,4,3,6,4,2,7,5,0.2857142857142857,28.400719
+University of Dhaka,Electrical & Electronic Engineering,Junior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,No,Yes,Sometimes,Yes,Rarely,Yes,Yes,> 3 Hours,3,0,0,1,2,1,3,5,3,6,3,7,6,4,2,6,2,0.2857142857142857,28.53882
+University of Dhaka,Electrical & Electronic Engineering,Junior (Undergrad),Female,21-25,Yes,No,< 3.00,No,No,Yes,Sometimes,Yes,Rarely,Yes,Yes,> 3 Hours,0,1,3,1,2,2,0,2,6,3,6,3,5,2,4,6,3,0.5,49.928402
+University of Dhaka,Fisheries,Junior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,Yes,Yes,Sometimes,Yes,Rarely,Yes,No,1-3 Hours,0,0,0,1,2,1,2,1,5,1,4,5,2,4,5,6,5,0.35714285714285715,35.501667
+University of Dhaka,Fisheries,Junior (Undergrad),Female,21-25,Yes,Yes,> 3.50,No,Yes,No,Sometimes,Yes,Rarely,Yes,Yes,> 3 Hours,0,1,1,2,3,1,1,1,4,6,4,2,5,3,7,4,3,0.5,49.84805
+University of Dhaka,Genetic Engineering & Biotechnology,Junior (Undergrad),Female,21-25,Yes,Yes,> 3.50,Yes,No,Yes,Sometimes,Yes,Rarely,Yes,Yes,1-3 Hours,0,0,0,0,1,3,1,1,2,3,4,5,6,7,6,5,4,0.42857142857142855,42.69102
+University of Dhaka,Genetic Engineering & Biotechnology,Junior (Undergrad),Female,21-25,Yes,Yes,> 3.50,No,Yes,Yes,Sometimes,Yes,Most of the time,Yes,Yes,1-3 Hours,0,3,0,1,2,1,1,1,2,3,4,5,4,3,7,6,5,0.35714285714285715,60.982025
+University of Dhaka,Software engineering,Junior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,Yes,Yes,Yes,Most of the time,Yes,Most of the time,Yes,Yes,1-3 Hours,0,2,0,1,1,1,3,1,7,4,4,5,3,5,3,6,4,0.35714285714285715,35.42242
+University of Dhaka,Software engineering,Junior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,Yes,Yes,Yes,Most of the time,Yes,Rarely,Yes,Yes,> 3 Hours,0,3,1,0,2,3,1,3,4,3,5,2,6,5,4,2,6,0.7142857142857143,71.33281
+BRAC University,Computer science and engineering,Junior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,No,Yes,Sometimes,Yes,Often,Yes,Yes,1-3 Hours,0,1,0,1,1,1,3,4,7,4,2,1,5,4,3,7,3,0.14285714285714285,14.0908
+BRAC University,Computer science and engineering,Junior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,Yes,Yes,No,Most of the time,Yes,Rarely,Yes,No,> 3 Hours,2,1,1,1,1,2,0,1,5,7,3,5,7,3,1,7,2,0.21428571428571427,-8.978568
+BRAC University,Electrical & Electronic Engineering,Junior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,Yes,Yes,Sometimes,Yes,Often,Yes,Maybe,> 3 Hours,2,1,1,1,1,2,3,1,7,4,6,3,6,3,7,1,4,0.8571428571428571,85.50264
+BRAC University,Electrical & Electronic Engineering,Junior (Undergrad),Female,21-25,Yes,Yes,> 3.50,No,Yes,Yes,Most of the time,Yes,Most of the time,Yes,No,1-3 Hours,0,1,2,1,0,0,2,6,4,2,6,3,5,7,5,2,6,0.7857142857142857,78.339676
+Ahsanullah University of Science and Technology,Computer science and engineering,Junior (Undergrad),Female,21-25,Yes,Yes,> 3.50,Yes,Yes,Yes,Sometimes,Yes,Often,Yes,No,> 3 Hours,1,1,2,3,1,0,0,1,2,3,4,4,5,6,4,3,4,0.5714285714285714,56.76155
+Ahsanullah University of Science and Technology,Computer science and engineering,Junior (Undergrad),Female,21-25,Yes,Yes,> 3.50,No,No,Yes,Sometimes,Yes,Rarely,Yes,Yes,> 3 Hours,0,3,1,1,0,1,1,1,3,7,4,5,3,6,4,5,3,0.42857142857142855,42.721077
+Ahsanullah University of Science and Technology,Computer science and engineering,Junior (Undergrad),Female,21-25,No,Yes,> 3.50,No,Yes,Yes,Sometimes,Yes,Rarely,Yes,Yes,1-3 Hours,0,2,1,0,1,1,0,1,2,3,4,5,6,5,4,5,6,0.42857142857142855,42.932884
+Ahsanullah University of Science and Technology,Computer science and engineering,Junior (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,Yes,Yes,Sometimes,Yes,Most of the time,Yes,No,> 3 Hours,0,1,1,1,0,1,3,2,3,5,4,3,5,7,3,6,2,0.35714285714285715,48.861008
+Ahsanullah University of Science and Technology,Computer science and engineering,Junior (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,Yes,Yes,Sometimes,Yes,Most of the time,Yes,No,1-3 Hours,0,1,2,3,0,1,1,1,2,3,7,5,4,6,3,5,4,0.6428571428571429,63.942
+Ahsanullah University of Science and Technology,Electrical & Electronic Engineering,Junior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,Yes,Yes,Yes,Sometimes,Yes,Often,No,No,1-3 Hours,2,2,0,0,2,0,1,1,4,5,4,2,6,4,3,5,4,0.42857142857142855,42.664207
+Ahsanullah University of Science and Technology,Electrical & Electronic Engineering,Junior (Undergrad),Female,21-25,No,Yes,3.01-3.50,No,Yes,No,Sometimes,Yes,Most of the time,Yes,Yes,1-3 Hours,0,1,1,2,1,1,1,1,3,4,5,5,5,4,5,4,4,0.5714285714285714,56.786682
+Ahsanullah University of Science and Technology,Electrical & Electronic Engineering,Junior (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,No,No,Most of the time,Yes,Most of the time,No,No,< 1 Hours,3,0,2,1,2,2,1,2,6,3,5,3,6,3,5,5,3,0.5,49.186687
+Ahsanullah University of Science and Technology,Electrical & Electronic Engineering,Junior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,Yes,Yes,Most of the time,Yes,Most of the time,Yes,No,> 3 Hours,1,2,1,1,1,0,1,1,3,5,5,4,2,6,3,2,6,0.7142857142857143,71.518906
+Ahsanullah University of Science and Technology,Electrical & Electronic Engineering,Junior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,Yes,Yes,Sometimes,Yes,Rarely,Yes,Yes,1-3 Hours,2,0,0,3,1,1,0,4,3,6,3,6,3,6,2,6,2,0.2857142857142857,28.470823
+American International University - Bangladesh,Computer science and engineering,Junior (Undergrad),Female,21-25,Yes,Yes,> 3.50,Yes,Yes,Yes,Most of the time,Yes,Rarely,Yes,Yes,1-3 Hours,1,1,0,1,2,1,3,2,4,6,3,2,5,3,1,6,4,0.2857142857142857,28.544464
+American International University - Bangladesh,Computer science and engineering,Junior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,Yes,No,Yes,Most of the time,Yes,Rarely,Yes,Yes,1-3 Hours,3,1,0,1,1,1,1,5,3,5,3,5,3,2,5,5,3,0.35714285714285715,35.651222
+American International University - Bangladesh,Computer science and engineering,Junior (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,No,Yes,Most of the time,Yes,Most of the time,Yes,No,1-3 Hours,1,0,2,1,0,1,1,1,5,3,7,4,3,6,3,5,3,0.6428571428571429,20.969814
+American International University - Bangladesh,Computer science and engineering,Junior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,Yes,Yes,Sometimes,Yes,Rarely,No,No,> 3 Hours,2,1,0,1,0,0,3,1,4,6,3,7,6,2,6,4,5,0.42857142857142855,48.33474
+American International University - Bangladesh,Electrical & Electronic Engineering,Junior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,Yes,Yes,Yes,Most of the time,Yes,Rarely,Yes,Yes,> 3 Hours,0,1,0,3,1,0,0,5,3,6,3,5,7,3,6,2,6,0.5714285714285714,57.03834
+American International University - Bangladesh,Electrical & Electronic Engineering,Junior (Undergrad),Female,21-25,Yes,Yes,> 3.50,No,Yes,Yes,Sometimes,Yes,Most of the time,Yes,Yes,1-3 Hours,1,1,0,3,1,1,1,2,5,3,6,2,6,3,6,1,6,0.8571428571428571,85.41661
+North South University,Computer science and engineering,Junior (Undergrad),Male,21-25,Yes,No,> 3.50,Yes,Yes,Yes,Never occurs,No,Most of the time,No,No,< 1 Hours,0,1,1,0,1,2,1,3,5,3,5,3,6,3,5,3,6,0.6428571428571429,68.4678
+North South University,Computer science and engineering,Junior (Undergrad),Female,21-25,Yes,Yes,> 3.50,No,Yes,Yes,Sometimes,Yes,Rarely,Yes,Yes,1-3 Hours,0,2,2,1,2,1,0,3,5,6,5,4,6,4,3,1,4,0.7857142857142857,87.41612
+North South University,Electrical & Electronic Engineering,Junior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,Yes,Yes,Yes,Most of the time,Yes,Often,Yes,No,> 3 Hours,1,2,0,2,1,1,0,2,6,4,6,2,5,3,6,3,2,0.7142857142857143,71.21188
+North South University,Electrical & Electronic Engineering,Junior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,Yes,Yes,Sometimes,Yes,Rarely,Yes,No,1-3 Hours,0,2,0,3,1,0,0,4,6,3,7,3,1,7,4,2,6,0.8571428571428571,84.552956
+North South University,Electrical & Electronic Engineering,Junior (Undergrad),Female,21-25,No,Yes,> 3.50,Yes,Yes,Yes,Sometimes,No,Rarely,No,No,> 3 Hours,0,0,2,1,0,1,1,4,6,2,5,7,2,5,3,1,5,0.7857142857142857,78.35548
+East West University,Computer science and engineering,Junior (Undergrad),Female,21-25,No,Yes,3.01-3.50,Yes,Yes,No,Most of the time,Yes,Rarely,Yes,Yes,1-3 Hours,0,1,3,1,2,1,0,3,7,3,6,4,3,6,4,2,6,0.7857142857142857,74.60143
+East West University,Computer science and engineering,Freshman (Undergrad),Male,21-25,Yes,No,< 3.00,Yes,Yes,No,Never occurs,No,Most of the time,Yes,No,< 1 Hours,0,2,1,2,1,0,2,2,3,5,6,3,1,6,4,2,6,0.7857142857142857,78.55175
+East West University,Electrical & Electronic Engineering,Junior (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,No,No,Most of the time,Yes,Rarely,No,No,< 1 Hours,2,1,3,1,0,2,0,1,5,3,6,4,2,6,3,5,3,0.5714285714285714,57.007973
+East West University,Electrical & Electronic Engineering,Junior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,Yes,Yes,Sometimes,Yes,Rarely,Yes,Yes,> 3 Hours,0,1,3,3,1,3,1,7,4,2,1,2,6,3,7,3,6,0.35714285714285715,83.75374
+East West University,Electrical & Electronic Engineering,Junior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,Yes,Yes,Yes,Most of the time,Yes,Often,Yes,Yes,1-3 Hours,0,0,1,3,0,2,1,3,6,1,7,4,6,1,7,3,3,0.7857142857142857,78.40836
+Not Available at the moment ,Admission Student ,Freshman (Undergrad),Male,< 20,Yes,No,> 3.50,No,No,No,Sometimes,Yes,Most of the time,Yes,No,1-3 Hours,2,2,3,3,3,1,1,6,2,6,1,7,2,7,1,3,3,0.35714285714285715,35.814148
+Govt Bangabandhu College Khulna ,Intermediate at Science ,Junior (Undergrad),Male,21-25,No,Yes,> 3.50,No,No,Yes,Sometimes,Yes,Often,Yes,No,> 3 Hours,3,3,2,2,3,2,3,1,5,1,7,5,4,1,7,1,1,0.9285714285714286,92.755135
+Shahajalal University of Science & Technology,Computer Science & Engineering ,Senior (Undergrad),Male,21-25,No,Yes,3.01-3.50,No,No,No,Sometimes,Yes,Never,Yes,No,> 3 Hours,1,0,1,2,2,2,0,5,6,4,1,7,5,1,7,5,1,0.21428571428571427,57.47033
+Chittagong University of Engineering & Technology (CUET),Computer Science & Engineering (CSE),Senior (Undergrad),Male,21-25,No,No,3.01-3.50,No,Yes,No,Sometimes,No,Never,Yes,Yes,1-3 Hours,2,1,1,0,0,1,0,1,5,6,2,3,7,6,6,6,7,0.21428571428571427,21.140993
+Dhaka University of Engineering and Technology ,Textile Engineering ,Senior (Undergrad),Female,> 25,No,No,< 3.00,No,Yes,No,Sometimes,No,Never,Yes,Yes,1-3 Hours,2,3,2,2,3,2,3,3,6,6,7,6,6,4,2,1,4,0.9285714285714286,92.68078
+East Delta University,CSE,Senior (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,No,Yes,Never occurs,Yes,Never,No,No,> 3 Hours,0,0,0,1,2,2,3,4,1,5,4,4,7,7,1,7,6,0.2857142857142857,42.614677
+East Delta University ,EEE,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,Yes,Yes,No,Most of the time,Yes,Often,Yes,No,> 3 Hours,1,1,1,1,0,1,1,5,5,5,7,5,5,5,5,5,1,0.6428571428571429,57.456978
+East Delta University ,CSE,Senior (Undergrad),Male,21-25,Yes,No,< 3.00,No,No,Yes,Sometimes,Yes,Rarely,Yes,No,> 3 Hours,0,0,3,0,2,3,2,3,1,6,3,5,7,7,1,3,2,0.5,28.764185
+East Delta University,BSc in CSE,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Never,Yes,Yes,> 3 Hours,2,3,3,3,3,3,3,1,4,4,7,7,7,1,3,1,4,0.9285714285714286,41.18964
+East Delta University ,Computer Science and Engineering ,Freshman (Undergrad),Female,< 20,Yes,No,3.01-3.50,No,No,No,Never occurs,Yes,Never,Yes,Yes,1-3 Hours,0,1,1,3,2,2,3,1,1,7,1,7,5,7,1,7,5,0.07142857142857142,7.09035
+"East Delta university,Chittagong",Computer Science and Engineering ,Graduate student,Female,21-25,Yes,No,< 3.00,No,No,No,Sometimes,Yes,Rarely,Yes,Yes,> 3 Hours,3,1,1,2,1,3,2,2,7,7,7,6,6,6,6,2,6,0.8571428571428571,85.46636
+CUET,EEE,Senior (Undergrad),Male,21-25,No,No,3.01-3.50,No,No,No,Never occurs,Yes,Rarely,Yes,No,< 1 Hours,1,3,1,3,2,2,3,1,1,7,7,4,7,7,4,7,2,0.5,50.420708
+Savar model college ,Science,Freshman (Undergrad),Female,< 20,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Never,No,No,> 3 Hours,0,2,2,1,1,2,2,7,2,6,6,6,1,7,1,7,3,0.42857142857142855,42.495655
+East Delta University,BSc in CSE,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Most of the time,No,Rarely,Yes,Yes,> 3 Hours,1,1,1,1,1,3,0,1,6,7,2,1,7,7,1,7,4,0.14285714285714285,15.977134
+Cuet,Architecture ,Freshman (Undergrad),Female,21-25,No,No,< 3.00,No,No,No,Never occurs,Yes,Often,Yes,No,> 3 Hours,2,2,2,2,1,1,1,2,1,5,2,6,5,7,2,4,1,0.35714285714285715,35.540424
+East Delta university ,CSE,Freshman (Undergrad),Male,21-25,Yes,Yes,< 3.00,No,No,No,Sometimes,No,Rarely,No,No,> 3 Hours,1,2,2,2,3,2,3,4,6,4,7,4,5,6,5,3,6,0.7857142857142857,72.16063
+Sust,Cse,Junior (Undergrad),Female,21-25,No,No,< 3.00,Yes,No,Yes,Sometimes,Yes,Rarely,Yes,Yes,> 3 Hours,2,1,0,2,2,1,2,6,3,4,5,3,3,2,2,4,4,0.5714285714285714,-7.9793653
+DU,Finance ,Senior (Undergrad),Male,21-25,Yes,No,< 3.00,No,No,Yes,Sometimes,No,Never,No,No,1-3 Hours,3,3,3,3,3,3,3,5,6,5,7,3,7,6,4,2,4,0.8571428571428571,85.560524
+Govt.Commerce  College ,Marketing ,Senior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,No,Yes,Never occurs,No,Never,No,No,> 3 Hours,0,0,0,0,0,0,0,1,1,6,2,1,1,6,1,7,1,0.14285714285714285,13.9113455
+East Delta University,Electrical And Electronics Engineering,Senior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Rarely,No,No,1-3 Hours,1,1,3,3,2,1,1,4,2,6,6,6,6,4,1,4,2,0.6428571428571429,64.129
+Cuet,Mie,Senior (Undergrad),Male,21-25,No,No,< 3.00,No,No,No,Never occurs,No,Never,Yes,Yes,1-3 Hours,3,3,3,3,3,3,3,1,7,1,7,1,7,7,1,7,4,0.5,49.782913
+CUET,ETE,Senior (Undergrad),Prefer not to say,21-25,Yes,Yes,> 3.50,No,Yes,No,Never occurs,No,Often,Yes,Yes,> 3 Hours,3,3,3,3,3,1,1,1,1,3,6,7,3,6,5,1,2,0.8571428571428571,85.52022
+CUET,EEE,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Often,Yes,No,> 3 Hours,2,3,3,2,2,3,1,2,5,3,2,5,3,3,3,3,2,0.42857142857142855,45.24432
+Chittagong University of Engineering and Technology ,WRE,Junior (Undergrad),Female,21-25,No,No,< 3.00,No,No,No,Never occurs,No,Often,No,No,< 1 Hours,0,0,1,1,1,2,1,1,1,4,5,6,7,5,7,5,7,0.5,41.561012
+Rajshahi University of Engineering & Technology,Computer science and engineering,Junior (Undergrad),Female,21-25,No,Yes,3.01-3.50,No,No,No,Sometimes,Yes,Rarely,Yes,No,> 3 Hours,0,1,3,0,1,1,1,6,2,6,3,6,2,6,2,5,2,0.35714285714285715,34.83814
+Rajshahi University of Engineering & Technology,Computer science and engineering,Junior (Undergrad),Female,21-25,Yes,No,< 3.00,No,Yes,Yes,Sometimes,Yes,Rarely,Yes,No,1-3 Hours,2,1,1,0,1,1,1,1,6,3,6,3,6,3,2,7,1,0.42857142857142855,42.73817
+Rajshahi University of Engineering & Technology,Computer science and engineering,Junior (Undergrad),Female,21-25,Yes,Yes,> 3.50,No,Yes,Yes,Sometimes,Yes,Rarely,Yes,No,> 3 Hours,0,1,1,0,1,3,3,1,3,6,4,1,6,3,7,2,6,0.6428571428571429,64.26615
+Rajshahi University of Engineering & Technology,Computer science and engineering,Junior (Undergrad),Female,21-25,Yes,Yes,> 3.50,Yes,Yes,Yes,Sometimes,Yes,Rarely,Yes,Yes,> 3 Hours,0,2,2,0,3,3,0,1,5,3,6,3,7,4,1,7,3,0.42857142857142855,42.65673
+Rajshahi University of Engineering & Technology,Computer science and engineering,Junior (Undergrad),Male,21-25,No,No,< 3.00,Yes,Yes,Yes,Sometimes,Yes,Rarely,No,No,1-3 Hours,0,2,2,3,1,2,1,1,4,2,3,6,2,5,3,5,4,0.35714285714285715,35.95053
+Rajshahi University of Engineering & Technology,Computer science and engineering,Junior (Undergrad),Female,21-25,Yes,Yes,> 3.50,No,No,No,Sometimes,Yes,Often,No,Yes,1-3 Hours,0,1,1,2,3,3,0,1,3,3,6,4,1,6,1,5,7,0.5714285714285714,56.975155
+Chittagong University of Engineering and Technology,EEE,Freshman (Undergrad),Female,< 20,Yes,No,< 3.00,No,No,No,Never occurs,No,Never,Yes,Maybe,1-3 Hours,1,1,1,1,1,0,2,2,5,2,1,4,6,5,6,4,5,0.2857142857142857,10.341608
+Chittagong University of Engineering and Technology,Under Graduation,Freshman (Undergrad),Male,< 20,No,No,< 3.00,No,No,No,Never occurs,No,Never,No,No,< 1 Hours,1,0,0,0,1,2,0,3,1,4,1,4,6,6,2,6,2,0.14285714285714285,13.751737
+Islamic University of Technology,Mechanical Engineering,Graduate student,Male,21-25,Yes,No,3.01-3.50,No,Yes,No,Sometimes,No,Rarely,Yes,No,> 3 Hours,2,1,1,2,1,1,1,2,2,4,4,5,5,2,5,6,4,0.35714285714285715,13.096153
+EDU,CSE,Freshman (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,No,No,Sometimes,No,Often,Yes,No,1-3 Hours,1,2,2,1,2,2,2,7,6,7,6,7,6,7,6,7,5,0.42857142857142855,43.42882
+East Delta University,CSE,Junior (Undergrad),Female,21-25,Yes,No,> 3.50,No,No,No,Sometimes,No,Rarely,Yes,No,1-3 Hours,3,3,3,3,3,3,3,1,1,5,7,6,7,2,7,7,3,0.5,56.53423
+Chittagong govt.girls college,science,Junior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,Yes,No,Sometimes,No,Never,Yes,Maybe,1-3 Hours,3,2,2,3,3,3,2,4,5,5,6,6,2,7,4,4,5,0.6428571428571429,21.698776
+Chittagong independent University,LLB,Graduate student,Female,21-25,Yes,Yes,< 3.00,No,No,Yes,Sometimes,Yes,Rarely,Yes,No,> 3 Hours,1,1,3,3,2,2,3,3,3,5,3,4,4,4,3,4,5,0.42857142857142855,-32.25772
+"Textile Engineering College,Begumganj",BSc in Yarn Engineering,Senior (Undergrad),Female,21-25,No,No,3.01-3.50,No,No,No,Sometimes,No,Rarely,Yes,Maybe,1-3 Hours,1,2,2,2,1,2,2,5,2,6,6,5,7,6,2,4,2,0.6428571428571429,64.223885
+Chittagong College,Statistics,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,Yes,Yes,No,Never occurs,Yes,Often,No,Yes,> 3 Hours,1,0,1,2,0,3,3,6,1,6,3,6,1,6,1,6,2,0.2857142857142857,28.250414
+Eberhard Karls Universität Tübingen,English literature and Culture M.A.,Graduate student,Male,> 25,No,Yes,> 3.50,No,No,No,Sometimes,No,Rarely,No,No,> 3 Hours,1,1,1,0,1,2,0,6,1,2,1,4,4,5,1,7,3,0.07142857142857142,6.9233785
+RUB,Religious studies,Graduate student,Male,> 25,No,No,3.01-3.50,No,No,No,Sometimes,No,Rarely,Yes,No,1-3 Hours,1,2,1,1,1,1,2,6,4,7,4,6,4,7,1,6,3,0.35714285714285715,-14.94996
+PCIU,BFT,Senior (Undergrad),Female,21-25,Yes,Yes,< 3.00,No,No,No,Sometimes,No,Rarely,Yes,Yes,> 3 Hours,1,1,1,1,1,1,1,1,1,2,5,4,1,5,1,7,1,0.35714285714285715,27.228668
+Chittagong Govt Women's College,Science,Senior (Undergrad),Female,< 20,Yes,No,> 3.50,No,Yes,No,Sometimes,No,Never,Yes,Maybe,> 3 Hours,2,0,1,2,1,3,3,2,2,3,7,3,3,7,4,5,2,0.6428571428571429,16.509134
+East Delta University,CSE,Senior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Never,No,No,> 3 Hours,0,0,0,0,0,1,1,6,1,5,6,5,2,5,4,5,5,0.5714285714285714,56.95075
+Chittagong govt women's college,HSC,Senior (Undergrad),Female,< 20,Yes,Yes,> 3.50,No,No,No,Sometimes,Yes,Often,No,No,> 3 Hours,3,3,3,3,3,3,3,4,4,4,4,4,4,4,4,4,4,0.5,57.06166
+Chittagong govt girls college,Hsc,Senior (Undergrad),Female,< 20,Yes,No,3.01-3.50,No,Yes,No,Sometimes,Yes,Never,Yes,Yes,> 3 Hours,1,3,2,3,3,2,3,4,3,2,7,5,5,4,7,3,7,0.7857142857142857,78.42411
+hfwu,SM,Graduate student,Male,> 25,No,Yes,< 3.00,No,No,Yes,Sometimes,No,Rarely,Yes,No,> 3 Hours,2,2,1,2,2,3,2,4,5,3,6,4,4,5,5,4,4,0.6428571428571429,63.606842
+"Chittagong college,(National University)","Honours 1st year ,Session (21-22)",Freshman (Undergrad),Female,< 20,Yes,No,3.01-3.50,No,No,Yes,Never occurs,Yes,Often,Yes,Yes,1-3 Hours,0,3,3,3,3,3,3,7,2,7,7,2,5,4,1,1,5,0.9285714285714286,77.603485
+Institute of community ophthalmology,Optometry,Senior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Rarely,Yes,Yes,> 3 Hours,2,2,0,1,0,2,3,2,5,3,6,3,5,6,3,6,6,0.5,49.676388
+Chattogram Veterinary &Animal Sciences University,Food science and technology,Graduate student,Female,> 25,No,No,> 3.50,No,Yes,No,Sometimes,No,Never,Yes,Maybe,> 3 Hours,2,1,2,2,0,3,2,5,3,4,5,5,6,4,1,4,4,0.5714285714285714,56.91094
+University of Chittagong,Bba,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,Yes,Yes,Sometimes,Yes,Often,Yes,No,> 3 Hours,2,2,1,2,2,1,2,5,4,5,4,4,4,5,5,4,4,0.5,49.799107
+North South University,Masters in Public Health,Graduate student,Female,> 25,Yes,Yes,> 3.50,No,No,No,Sometimes,No,Never,No,Yes,> 3 Hours,1,0,1,2,1,2,1,3,1,3,1,4,6,6,5,3,3,0.35714285714285715,40.362392
+Chittagong Govt women's college,HSC,Senior (Undergrad),Female,< 20,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Most of the time,Yes,Yes,> 3 Hours,3,3,3,3,3,1,1,1,4,1,7,4,7,5,7,1,7,0.9285714285714286,92.629715
+CGWC,Science background hsc,Junior (Undergrad),Female,< 20,Yes,No,> 3.50,No,No,No,Sometimes,Yes,Rarely,Yes,Yes,> 3 Hours,1,3,3,3,3,3,3,5,1,6,6,6,6,6,6,6,6,0.5,38.755905
+"Asia Pacific University, Kuala lampur, Malaysia",Computer Science In Data Analytics,Senior (Undergrad),Female,21-25,No,Yes,> 3.50,No,No,No,Never occurs,No,Never,No,No,> 3 Hours,1,1,0,0,0,0,0,4,4,7,2,2,4,4,4,6,1,0.21428571428571427,21.098877
+Chittagong government women College,Science,Senior (Undergrad),Female,< 20,Yes,Yes,3.01-3.50,No,Yes,No,Sometimes,Yes,Never,Yes,Maybe,> 3 Hours,1,1,1,2,0,1,1,2,4,7,5,7,7,7,4,6,4,0.42857142857142855,42.57825
+Ctg. Govt. Women's College,HSC,Freshman (Undergrad),Female,< 20,Yes,No,> 3.50,No,No,No,Sometimes,No,Never,Yes,No,1-3 Hours,0,3,3,3,2,3,3,3,3,2,7,7,1,7,2,3,1,0.7857142857142857,-9.832611
+University of Chittagong,MBA,Graduate student,Female,> 25,Yes,Yes,3.01-3.50,No,No,Yes,Sometimes,Yes,Most of the time,No,Yes,1-3 Hours,1,0,0,1,1,3,0,7,4,7,2,6,1,5,6,7,2,0.14285714285714285,14.202145
+Chittagong College,Bsc hons,Senior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,Yes,No,Never occurs,Yes,Rarely,No,No,1-3 Hours,1,1,3,3,3,3,3,3,2,3,3,5,5,5,5,5,5,0.35714285714285715,35.54146
+Chattogram Veterinary and Animal Sciences University,Food Science and Technology,Graduate student,Female,> 25,No,Yes,> 3.50,No,Yes,No,Never occurs,No,Never,No,Yes,1-3 Hours,1,0,1,1,1,1,3,2,1,6,6,6,5,7,1,6,4,0.5,49.762333
+Chittagong govt women college,Hsc science,Senior (Undergrad),Female,< 20,Yes,No,3.01-3.50,No,No,No,Never occurs,No,Never,Yes,Yes,< 1 Hours,1,0,0,0,0,3,3,7,5,7,6,7,3,7,5,7,7,0.42857142857142855,34.33335
+Premier University,BSc in CSE,Senior (Undergrad),Female,21-25,Yes,Yes,> 3.50,No,Yes,No,Never occurs,No,Never,No,No,1-3 Hours,1,1,1,3,0,3,1,5,1,6,1,6,6,6,1,4,2,0.2857142857142857,18.973341
+Chattogram Veterinary and Animal Sciences University,Food Science and Technology,Graduate student,Female,> 25,Yes,Yes,> 3.50,No,No,Yes,Sometimes,No,Never,Yes,Yes,> 3 Hours,1,2,2,2,2,2,2,6,1,6,5,6,6,6,1,6,6,0.42857142857142855,42.7182
+Chittagong College,B.sc,Freshman (Undergrad),Female,< 20,Yes,Yes,> 3.50,No,No,No,Sometimes,Yes,Most of the time,Yes,No,1-3 Hours,1,1,1,3,1,3,2,3,2,7,4,2,4,6,2,6,1,0.35714285714285715,-104.5519
+Brac,Cse,Freshman (Undergrad),Female,21-25,No,Yes,3.01-3.50,No,No,Yes,Sometimes,No,Often,Yes,Yes,1-3 Hours,2,1,2,3,3,3,3,4,3,6,7,7,2,6,3,3,4,0.7857142857142857,78.46752
+University of Dhaka,BBA,Junior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,Yes,No,Sometimes,No,Never,Yes,Yes,1-3 Hours,2,3,3,3,3,3,3,7,3,6,7,7,1,7,1,1,1,0.9285714285714286,81.396736
+Chittagong government Girls College,HSC,Junior (Undergrad),Female,< 20,Yes,No,3.01-3.50,No,No,No,Sometimes,No,Rarely,Yes,Yes,> 3 Hours,1,1,0,0,1,1,2,4,1,6,7,3,5,6,7,5,4,0.6428571428571429,41.279625
+Chittagong University,LL.B.,Senior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,No,Yes,Never occurs,No,Never,Yes,Yes,1-3 Hours,3,3,3,3,3,3,3,6,6,2,6,6,7,7,1,3,1,0.7142857142857143,71.19604
+Ccpc,Hsc,Senior (Undergrad),Female,< 20,Yes,No,< 3.00,No,No,No,Never occurs,Yes,Rarely,No,Maybe,> 3 Hours,2,3,2,3,3,2,0,6,4,5,6,7,6,6,5,5,4,0.5714285714285714,56.95154
+University of Tuebingen,Microbiology and Biotechnology,Graduate student,Male,> 25,Yes,Yes,> 3.50,No,No,No,Sometimes,Yes,Rarely,Yes,No,1-3 Hours,2,3,3,2,2,2,2,5,4,6,4,5,2,6,4,4,5,0.5,49.65667
+"Textile Engineering College, Chattogram",Fabric Manufacturing,Sophomore (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Never,Yes,Yes,1-3 Hours,3,1,3,3,1,3,3,4,1,7,7,1,6,7,3,1,2,0.9285714285714286,50.87989
+"International Islamic University,Chittagong",B.SC in EEE,Senior (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,No,No,Never occurs,No,Never,Yes,No,1-3 Hours,2,2,0,1,1,2,2,5,2,5,5,4,3,4,2,5,5,0.5,-44.186405
+East Delta University,BBA,Senior (Undergrad),Female,21-25,Yes,Yes,> 3.50,No,Yes,No,Sometimes,No,Never,Yes,No,< 1 Hours,2,3,3,3,3,3,3,6,6,6,7,6,1,6,4,7,7,0.5,49.854755
+Bangladesh University of Engineering and Technology,Chemical Engineering,Junior (Undergrad),Male,21-25,Yes,No,> 3.50,No,No,Yes,Never occurs,Yes,Rarely,No,No,> 3 Hours,2,0,1,1,0,2,3,3,1,5,5,3,3,6,2,5,4,0.5,49.57695
+University of Chittagong,BSC Engineering in CSE,Junior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Never occurs,No,Often,No,No,< 1 Hours,0,0,0,0,0,1,0,7,4,4,1,5,3,6,4,6,4,0.14285714285714285,14.672492
+East Delta University,CSE,Senior (Undergrad),Male,21-25,Yes,Yes,3.01-3.50,No,No,No,Most of the time,No,Rarely,Yes,No,> 3 Hours,0,1,1,1,1,2,3,3,4,5,5,4,5,5,4,4,7,0.5714285714285714,56.59217
+EDU,CSE,Senior (Undergrad),Male,21-25,Yes,Yes,3.01-3.50,No,Yes,No,Sometimes,No,Never,No,No,1-3 Hours,1,2,1,2,1,2,1,4,3,4,4,4,4,4,4,4,4,0.5,48.52908
+EDU,CSE,Senior (Undergrad),Male,21-25,No,Yes,3.01-3.50,No,No,No,Sometimes,Yes,Most of the time,Yes,No,> 3 Hours,1,2,1,3,3,1,2,2,6,4,7,7,2,3,4,5,6,0.6428571428571429,64.15573
+EDU,CSE,Senior (Undergrad),Male,21-25,Yes,Yes,3.01-3.50,No,No,No,Sometimes,No,Never,No,No,1-3 Hours,1,1,1,1,0,1,1,1,2,2,4,3,4,4,4,4,4,0.5,50.921505
+Australian Catholic University (ACU),Doctor of Philosophy (Ph.D.),Graduate student,Male,21-25,No,Yes,> 3.50,No,No,No,Sometimes,No,Never,No,No,1-3 Hours,0,0,0,0,0,0,0,7,4,7,1,7,7,7,1,7,1,0.07142857142857142,6.998629
+East Delta University,Computer Science,Senior (Undergrad),Male,21-25,Yes,No,> 3.50,No,No,No,Sometimes,Yes,Never,Yes,No,1-3 Hours,1,2,2,1,1,1,1,4,5,4,5,5,5,6,6,4,5,0.5714285714285714,57.07003
+East Delta University,CSE,Senior (Undergrad),Male,21-25,No,Yes,> 3.50,No,No,No,Sometimes,No,Rarely,Yes,No,> 3 Hours,3,2,3,3,2,3,3,3,2,6,7,4,4,7,1,6,1,0.5714285714285714,54.02084
+Ahsanullah University of Science and Technology,Electrical and Electronic Engineering,Senior (Undergrad),Male,21-25,No,No,> 3.50,No,No,No,Sometimes,No,Rarely,No,No,1-3 Hours,1,2,0,3,2,3,0,5,4,7,5,7,4,7,2,6,2,0.42857142857142855,42.524414
+University of Technology Sydney,Master of Data Science and Innovation,Graduate student,Male,> 25,Yes,Yes,> 3.50,No,Yes,No,Sometimes,No,Never,No,No,1-3 Hours,2,1,1,1,1,1,1,6,3,6,2,6,5,6,2,6,2,0.21428571428571427,21.40565
+University of Chittagong,BBA,Senior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,Yes,No,Never occurs,No,Never,Yes,Yes,> 3 Hours,1,1,2,3,2,2,3,4,3,4,2,5,3,3,6,3,2,0.42857142857142855,42.953007
+CUET,CSE,Senior (Undergrad),Male,21-25,Yes,Yes,3.01-3.50,Yes,No,Yes,Sometimes,No,Rarely,Yes,No,1-3 Hours,1,2,2,1,1,1,1,6,2,1,6,6,6,6,6,6,2,0.5,49.657787
+Chittagong University,Honours,Senior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Never,No,Maybe,> 3 Hours,1,1,2,1,0,3,1,2,1,5,2,1,7,5,1,2,5,0.5,49.97875
+Port City International University,CSE,Senior (Undergrad),Male,> 25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Never,Yes,Maybe,1-3 Hours,1,0,2,1,2,3,2,5,5,7,4,7,6,6,3,5,5,0.42857142857142855,128.05069
+University of Barishal,CSE,Graduate student,Female,21-25,Yes,Yes,> 3.50,No,Yes,No,Never occurs,No,Rarely,No,No,< 1 Hours,1,1,1,2,1,1,2,6,1,7,1,6,5,7,1,6,1,0.14285714285714285,58.664917
+The University of Dhaka,MPhil,Graduate student,Prefer not to say,> 25,No,Yes,> 3.50,No,Yes,No,Sometimes,Yes,Rarely,Yes,No,1-3 Hours,1,2,1,1,1,2,1,6,5,7,5,6,5,6,1,6,1,0.42857142857142855,57.119225
+East Delta University,Computer Science and Engineering,Senior (Undergrad),Female,21-25,Yes,No,< 3.00,No,No,Yes,Sometimes,Yes,Most of the time,No,Yes,> 3 Hours,1,2,1,1,1,2,1,4,1,4,1,1,1,4,1,1,4,0.5,50.0534
+East delta University,CSE,Junior (Undergrad),Female,21-25,Yes,No,3.01-3.50,No,No,No,Sometimes,Yes,Most of the time,Yes,Yes,1-3 Hours,3,3,1,1,0,3,1,2,1,7,7,6,7,7,1,1,7,0.9285714285714286,27.330643
+East Delta University,CSE,Senior (Undergrad),Male,21-25,Yes,Yes,< 3.00,No,Yes,Yes,Never occurs,No,Rarely,Yes,Maybe,> 3 Hours,1,2,3,3,2,1,0,5,2,5,4,7,6,6,4,6,5,0.35714285714285715,39.121525
+Chittagong University,sociology,Senior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,No,No,Sometimes,No,Rarely,Yes,Maybe,> 3 Hours,0,0,1,2,3,3,3,5,1,2,1,3,6,7,3,3,4,0.35714285714285715,35.426693
+East Delta University,Cse,Senior (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Most of the time,No,Never,No,No,> 3 Hours,1,3,2,2,2,2,2,4,5,3,6,5,3,4,3,6,4,0.5,91.49873
+East Delta University,Cse,Junior (Undergrad),Female,21-25,Yes,Yes,> 3.50,No,No,No,Sometimes,Yes,Never,No,No,> 3 Hours,1,2,2,0,2,3,2,5,7,1,5,4,3,3,7,5,5,0.5,49.859123
+East Delta University,CSE,Sophomore (Undergrad),Male,21-25,Yes,No,3.01-3.50,No,No,No,Most of the time,Yes,Rarely,Yes,No,1-3 Hours,1,1,2,2,2,2,1,1,1,5,4,4,1,3,4,3,5,0.5714285714285714,54.52904
+East Delta University,Computer Science And Engineering,Junior (Undergrad),Female,21-25,Yes,Yes,< 3.00,No,Yes,No,Sometimes,No,Rarely,No,Maybe,1-3 Hours,2,3,3,3,3,3,3,7,6,6,6,6,6,6,1,1,1,0.8571428571428571,93.61902
+East Delta University,CSE,Junior (Undergrad),Female,21-25,Yes,Yes,3.01-3.50,No,Yes,No,Sometimes,No,Never,No,No,1-3 Hours,0,0,1,1,1,1,1,7,2,7,5,5,5,5,2,7,2,0.35714285714285715,42.26874
+USTC,Pharmacy,Junior (Undergrad),Male,21-25,Yes,Yes,3.01-3.50,No,No,No,Sometimes,No,Rarely,No,No,> 3 Hours,0,2,2,2,0,0,0,4,4,4,4,4,4,4,4,4,4,0.5,46.87745
+East Delta University,CSE,Sophomore (Undergrad),Male,21-25,Yes,Yes,3.01-3.50,No,No,No,Sometimes,No,Most of the time,Yes,No,1-3 Hours,2,1,2,1,2,2,3,5,6,5,5,7,6,6,5,5,1,0.5,48.008965
+East Delta University,Engineering,Senior (Undergrad),Male,21-25,Yes,No,< 3.00,No,Yes,No,Never occurs,No,Rarely,No,Yes,> 3 Hours,0,0,2,3,0,1,3,4,4,5,2,4,4,4,4,4,4,0.35714285714285715,49.19829
+East Delta University,Computer Science and Engineering,Sophomore (Undergrad),Male,21-25,Yes,Yes,> 3.50,No,No,No,Never occurs,Yes,Never,Yes,No,1-3 Hours,2,1,2,1,1,2,1,6,4,6,5,5,5,5,2,6,3,0.42857142857142855,42.76501

@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stress Level Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f2f5;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        h1 {
+            color: #333;
+        }
+        form {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 400px;
+            width: 100%;
+        }
+        label {
+            display: block;
+            margin-top: 10px;
+            margin-bottom: 5px;
+            color: #333;
+        }
+        select, input[type="text"] {
+            width: calc(100% - 22px);
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin-bottom: 10px;
+            font-size: 16px;
+        }
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            padding: 10px 20px;
+            font-size: 16px;
+        }
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+        #result {
+            margin-top: 20px;
+            font-size: 18px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <form action="/predict" method="post" id="prediction-form">
+        <h1>Stress Level Prediction</h1>
+        <label for="extraverted">Extraverted, enthusiastic:</label>
+        <select id="extraverted" name="Extraverted, enthusiastic.">
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+        </select><br>
+
+        <label for="anxious">Anxious, easily upset:</label>
+        <select id="anxious" name="Anxious, easily upset.">
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+        </select><br>
+
+        <label for="institution">The name of your institution:</label>
+        <input type="text" id="institution" name="The name of your institution"><br>
+
+        <label for="program">The name of your program of study:</label>
+        <input type="text" id="program" name="The name of your program of study"><br>
+
+        <label for="class_level">Your current class level is:</label>
+        <input type="text" id="class_level" name="Your current class level is"><br>
+
+        <label for="gender">Your gender:</label>
+        <input type="text" id="gender" name="Your gender"><br>
+
+        <label for="living_with_family">Living with family?</label>
+        <select id="living_with_family" name="Living with family?">
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+        </select><br>
+
+        <label for="academic_condition">Are you happy with your academic Condition?</label>
+        <select id="academic_condition" name="Are you happy with your academic Condition?">
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+        </select><br>
+
+        <label for="addicted">Are you addicted to any drugs?</label>
+        <select id="addicted" name="Are you addicted to any drugs?">
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+        </select><br>
+
+        <label for="relationship">Are you in a relationship?</label>
+        <select id="relationship" name="Are you in a relationship?">
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+        </select><br>
+
+        <label for="age">Age:</label>
+        <select id="age" name="Age">
+            <option value="18-20">18-20</option>
+            <option value="21-23">21-23</option>
+            <option value="24-26">24-26</option>
+            <option value="> 25">> 25</option>
+        </select><br>
+
+        <input type="submit" value="Predict">
+        <div id="result"></div>
+    </form>
+    
+    <script>
+        const form = document.getElementById('prediction-form');
+        form.addEventListener('submit', async (event) => {
+            event.preventDefault();
+            const formData = new FormData(form);
+            const response = await fetch('/predict', {
+                method: 'POST',
+                body: formData
+            });
+            const result = await response.json();
+            document.getElementById('result').innerText = `Predicted Stress Level: ${result.predicted_stress_level}%`;
+        });
+    </script>
+</body>
+</html>
